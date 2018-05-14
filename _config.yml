@@ -1,62 +1,44 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
-
-# Google webmaster tools
-google_verify:
-
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
-
-# Contact form:
-# - static : pass through formspree.io to validate email sending
-# - disqus : replace contact form by disqus thread
-# - comment the line below if you want to stick with the default PHP contact form
-contact: static
-
-# If you use disqus you need disqus shortname
-# https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
-
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: 95AB63 #18bc9c #80B3FF
-  primary-rgb: "149,171,99" #"24,288,156" #"128,179,255"
-  secondary: 10222B #2c3e50 #FD6E8A
-  secondary-dark: 10222B #233140 #A2122F
-
-# Footer settings
-footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-#  - title: twitter
-#    url: http://twitter.com/jekyllrb
-#  - title: facebook
-#    url:
-#  - title: stack-overflow
-#    url: http://stackoverflow.com/questions/tagged/jekyll
-#  - title: bitbucket
-#    url: http://bitbucket.org/jekyll
-#  - title: github
-#    url: https://github.com/redovic
-
-# Postal address (add as many lines as necessary)
-address:
-  #- line: 3481 Melrose Place
-  - line: Austria
-
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+title: Daniel Rammer
+email: dnl.rammer@gmail.com
+description: Generalistic game developer from Austria
+baseurl: "/pie.fh-hagenberg.at" # the subpath of your site, e.g. /blog
+#url: "https://github.com/redovic" # the base hostname & protocol for your site
+url: "http://playful-interactive-environments.github.io" # the base hostname & protocol for your site
+facebook: daniel.rammer
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+kramdown:
+  input: GFM
+excerpt_separator: "" #disable excerpts
+
+exclude: [
+  "package.json",
+  "node_modules",
+  "gulpfile"
+]
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+collections:
+  pages:
+    output: true
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+defaults:
+  - scope:
+      type: projects
+    values:
+      layout: project

@@ -1,0 +1,131 @@
+.gallery-main {
+  position: relative;
+  margin-top: 0.8em;
+  overflow: hidden;
+  background-color: transparent;
+  transition: background-color 500ms, padding-bottom 250ms;
+
+  img {
+    width: 100%;
+  }
+}
+
+.gallery-main--loading img,
+.gallery-main--loading iframe {
+  opacity: 0.5;
+}
+
+@keyframes loader {
+
+  0% {
+    transform: scale(0);
+    opacity: 0;
+  }
+
+  60% {
+    transform: scale(1);
+    opacity: 0.8;
+  }
+
+  100% {
+    transform: scale(0);
+    opacity: 0;
+  }
+}
+
+.gallery-main--loading:before,
+.gallery-main--loading:after {
+  content: " ";
+  display: block;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  background-color: $pie-cyan2;
+  position: absolute;
+  left: calc(50% - 1.5rem);
+  top: calc(50% - 1.5rem);
+  animation: loader 1.8s infinite ease-in-out;
+}
+
+.gallery-main--loading:after {
+  animation-delay: 900ms;
+  background-color: $pie-green1;
+}
+
+.gallery-main--video {
+  padding-bottom: 56%;
+  position: relative;
+  background-color: $black;
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.gallery-preview {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 1em;
+}
+
+.gallery-preview-item {
+  flex-basis: calc(20% - 0.5em);
+  flex-grow: 0;
+  flex-shrink: 1;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+  cursor: pointer;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+
+  @media (min-width: $screen-sm) {
+  }
+
+  @media (min-width: $screen-lg) {
+    flex-basis: calc(10% - 0.5em);
+  }
+
+  @media (min-width: $screen-xl) {
+
+  }
+
+
+  &:after {
+    content: "";
+    padding-bottom: 100%;
+    display: block;
+  }
+
+  &:first-child {
+    margin-left: 0;
+  }
+
+  &:last-child {
+    margin-right: 0;
+  }
+}
+
+.gallery-preview-item--video:before {
+  content: " ";
+  position: absolute;
+  width: 50%;
+  height: 50%;
+  margin: 25%;
+  background-image: url(../assets/play.svg);
+  background-size: 100% 100%;
+}
+
+.gallery-credits {
+  font-size: 12px;
+  margin-top: 1em;
+  line-height: 1.1em;
+
+  & ul {
+    line-height: 1.1em;
+  }
+}

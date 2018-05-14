@@ -1,0 +1,99 @@
+.projects-group {
+  margin-top: 1.5em;
+  justify-content: space-around;
+
+  @media (min-width: $screen-sm) {
+    justify-content: flex-start;
+  }
+}
+
+.projects-grouplabel {
+  flex: 1 0 100%;
+
+  @media (min-width: $screen-sm) {
+    margin-left: 0.5em;
+  }
+}
+
+.projects-item {
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: 100%;
+  transition: flex-basis 180ms ease-out;
+  position: relative;
+  max-height: 250px;
+  margin-bottom: 2em;
+
+  @media (min-width: $screen-sm) {
+    flex-basis: calc(50% - 1em);
+    margin: 1em 0.5em;
+    margin-top: 0;
+    max-height: 100%;
+  }
+
+  @media (min-width: $screen-lg) {
+    flex-basis: calc(33.33333% - 1em);
+  }
+
+  @media (min-width: $screen-xl) {
+    flex-basis: calc(25% - 1em);
+  }
+
+  & > a {
+    display: block;
+    background-size: cover;
+    background-position: center;
+    margin: auto;
+    border: 1px solid darken($secondary-color, 20);
+    line-height: 0;
+    padding-bottom: 60%;
+  }
+}
+
+.projects-item a:after {
+  content: attr(data-title);
+  color: $secondary-color;
+  position: absolute;
+  bottom: 0;
+  padding: 1em;
+  background-color: transparentize($pie-red2, 0.2);
+  margin: 1px;
+  left: 0;
+  right: 0;
+  line-height: 1;
+}
+
+.projects-item a:before {
+  content: " ";
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  margin: 1px;
+  background-color: transparent;
+  transition: background-color 75ms;
+}
+
+.projects-item a:hover:before {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.project-item-meta {
+  color: $secondary-color;
+  mix-blend-mode: color-dodge;
+  position: absolute;
+  bottom: 0;
+  padding: 1em;
+  background-color: rgba(0, 0, 0, 0.6);
+  margin: 1px;
+  left: 0;
+  right: 0;
+  line-height: 1;
+}
+
+.project-item-meta-small {
+  font-size: 12px;
+  display: block;
+  margin-top: 0.5em;
+}

@@ -1,0 +1,45 @@
+.project {
+  flex-direction: column-reverse;
+
+  @media (min-width: $screen-sm) {
+    justify-content: space-around;
+  }
+
+  @media (min-width: $screen-md) {
+    flex-wrap: nowrap;
+    flex-direction: row;
+  }
+}
+
+.project-gallery {
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: 100%;
+
+  @media (min-width: $screen-md) {
+    margin: 0;
+  }
+}
+
+.project-details {
+  flex: 1;
+  flex-basis: 100%;
+
+  @media (min-width: $screen-sm) {
+    text-align: justify;
+    margin-bottom: 2em;
+  }
+
+  @media (min-width: $screen-md) {
+    flex-basis: 400px;
+  }
+}
+
+.project-details-title {
+
+}
+
+.project-details-metadata {
+  margin-top: 0;
+  font-size: 12px;
+}

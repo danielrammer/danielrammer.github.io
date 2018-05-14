@@ -1,0 +1,13 @@
+---
+layout: page
+permalink: /partners/
+---
+
+<h1>Partners</h1>
+<div class="partners flex-wrapper">
+  {% for partner in site.data.partners %}
+  <a href="{{partner.link}}" class="partner">
+    <img src="{{'/assets/partners/' | append: partner.logo | prepend: site.baseurl }}" alt="{{partner.name}} logo" title="{{partner.name}}">
+  </a>
+  {% endfor %}
+</div>

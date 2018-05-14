@@ -1,0 +1,27 @@
+<div class="staff">
+  <div class="staff-photo">
+    <img src="{{'/assets/people/' | append: include.data.photo | prepend: site.baseurl }}" alt="{{ include.data.name | prepend: 'Photo of '}}">
+  </div>
+  <div class="staff-details">
+    <p class="staff-name">{{include.data.name}}</p>
+    {% if include.data.phone %}
+    <p class="staff-phone">{{include.data.phone}}</p>
+    {% endif %}
+    {% if include.data.email %}
+    <p class="staff-email"><a href="mailto:{{include.data.email}}">{{include.data.email}}</a></p>
+    {% endif %}
+    {% if include.data.projects %}
+    <p class="staff-projects">Projects:
+    {% for selectedProject in include.data.projects %}
+      {% assign isLast = forloop.last %}
+      {% for project in site.projects %}
+        {% if selectedProject == project.title %}
+          <a href="{{project.url | prepend: site.baseurl}}">{{selectedProject}}</a>{% if isLast == false %}, {% endif %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    </p>
+    {% endif %}
+  </div>
+</div>

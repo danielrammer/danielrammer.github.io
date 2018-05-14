@@ -1,0 +1,15 @@
+{
+  "extends": "airbnb/base",
+  "globals": {
+    "document": false,
+    "Image": false
+  },
+  "rules": {
+    "no-plusplus": [
+      "error",
+      {
+        "allowForLoopAfterthoughts": true
+      }
+    ]
+  }
+}

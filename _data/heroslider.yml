@@ -1,0 +1,41 @@
+- file: "projects/game-changer/game-changer-top.jpg"
+  title: "Playful Interactive<br />Environments"
+  subtitle: "A research group at the<br>University of Applied Sciences Upper Austria."
+  more:
+    label: "Get in touch"
+    link:  "/contact/"
+
+- file: "projects/bike-n-play/bike-n-play-bicycle.jpg"
+  title: "Bike'N'Play"
+  subtitle: "Developing gaming approaches for the integration of<br>cycling data into popular computer games of different game genres."
+  more:
+    label: "Learn more"
+    link:  "/projects/bike-n-play/"
+
+- file: "projects/interplayces/interplayces-co-smonauts-raumlayout.jpg"
+  title: "InterPlayces"
+  subtitle: "Creating intergenerational game and interaction designs<br>for the older and younger generation via a co-located playground."
+  more:
+    label: "Learn more"
+    link:  "/projects/interplayces/"
+
+- file: "projects/play-uc/playuc_energysafari.jpg"
+  title: "Play!UC"
+  subtitle: "Supporting participatory processes<br>in urban development projects through computer games."
+  more:
+    label: "Learn more"
+    link:  "/projects/play-uc/"
+  
+- file: "projects/piedeck/piedeck-zagreb01.jpg"
+  title: "PIEdeck"
+  subtitle: "An experimental interactive installation<br>created for playful activities with multiple participants."
+  more:
+    label: "Learn more"
+    link:  "/projects/piedeck/"
+
+- file: "projects/invisible-walls/invisible-walls-audience.jpg"
+  title: "Invisible Walls"
+  subtitle: "An experimental interaction space<br>for bridging real and virtual worlds."
+  more:
+    label: "Learn more"
+    link:  "/projects/invisible-walls/"

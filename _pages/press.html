@@ -1,0 +1,30 @@
+---
+layout: page
+permalink: /press/
+---
+
+<div class="projects-list flex-wrapper">
+{% assign sortedPressrelease = site.data.pressrelease |sort: "date" | reverse %}
+{% for pressrelease in sortedPressrelease %}
+  <div class="projects-item">
+    {% if pressrelease.titleimage %}
+    {% assign remote = pressrelease.titleimage | slice: 0, 4 %}
+      {% if remote == "http" %}
+        {% assign imageurl = pressrelease.titleimage %}
+      {% else %}
+        {% assign imageurl = pressrelease.titleimage | prepend: site.baseurl %}
+      {% endif %}
+    {% else %}
+      {% assign imageurl = "//placehold.it/300x500?text=" | append: pressrelease.title |replace: "'", '' | uri_escape %}
+    {%endif%}
+    {% assign url = pressrelease.link.url | slice: 0, 4 %}
+      {% if url == "http" %}
+        {% assign pressurl = pressrelease.link.url %}
+      {% else %}
+        {% assign pressurl = pressrelease.link.url | prepend: site.baseurl %}
+      {% endif %}
+    <a href="{{pressurl}}" title="{{pressrelease.title}}" style="background-image: url({{imageurl}})" data-title="{{pressrelease.date}}: {{pressrelease.title}} ({{pressrelease.link.label}})">
+    </a>
+  </div>
+{% endfor %}
+</div>

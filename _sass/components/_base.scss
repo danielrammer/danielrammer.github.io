@@ -1,0 +1,19 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+img {
+  max-width: 100%;
+}
+
+body {
+  color: $text-color;
+  background-color: $secondary-color;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}

@@ -1,0 +1,35 @@
+---
+layout: page
+permalink: /contact/
+---
+<h1>Contact</h1>
+<address>
+  Austria<br>
+  <!-- <a href="mailto:pie@fh-hagenberg.at">dnl.rammer@gmail.com</a> -->
+</address>
+{% comment %}
+<iframe class="contactmap" src="https://www.google.com/maps/embed/v1/place?q=48.369112%2C%2014.511971&key=AIzaSyCi4S2qJh_JhhjsWLzwbEVPdu0MVQ9--mo&attribution_source=Google+Maps+Embed+API" allowfullscreen></iframe>
+<h2>Logo</h2>
+<p>Download the Playful Interactive Environments logo. Includes versions optimized for web and print.</p>
+<p><a href="{{'/assets/brand/pie-logo-package.zip' | prepend: site.baseurl }}">PIE Logo Package</a></p>
+{% endcomment %}
+{% capture imprint %}
+
+Telephone: +43 (0)650 9909786  
+E-Mail: [dnl.rammer@gmail.com](mailto:dnl.rammer@gmail.com)  
+Web: [https://redovic.github.io/](https://redovic.github.io/)  
+
+
+{% comment %}
+### Technical Implementation and Support
+In the event of technical problems send an email to: [pie@fh-hagenberg.at](mailto:pie@fh-hagenberg.at)
+{% endcomment %}
+
+{% comment %}
+### Liability
+Numerous texts found on the website of Playful Interactive Environments have been carefully checked. We cannot however verify the accuracy, completeness and extent to which information is up to date. Playful Interactive Environments cannot therefore be held responsible for text content. Links to other websites have been carefully selected. As Playful Interactive Environments has no influence over their content the university cannot be held liable for content.
+{% endcomment %}
+&copy; Daniel Rammer
+{% endcapture %}
+
+{{imprint | markdownify}}

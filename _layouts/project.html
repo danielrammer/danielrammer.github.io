@@ -1,0 +1,48 @@
+---
+layout: page
+---
+{% capture gallery %}
+  {% if page.gallery %}
+    <div class="project-gallery">
+      {% include gallery.html data=page.gallery project=page.url %}
+
+      {% for galleryitem in page.gallery %}
+        {% if galleryitem.author %}
+          {% capture creditloop %}
+            <li>{{ forloop.index }}: {{ galleryitem.author }}</li>
+          {% endcapture %}
+          {% assign credits = credits | append: creditloop %}
+        {% endif %}
+      {% endfor %}
+
+      {% if credits %}
+      <p class="gallery-credits">Image credits:
+      </p>
+      <ul class="gallery-credits">
+        {{credits}}
+      </ul>
+      {% endif %}
+    </div>
+  {% else %}
+    {% assign nogalleryClass = "project-nogallery" %}
+  {% endif %}
+{% endcapture %}
+
+<article class="flex-wrapper project {{ nogalleryClass }}">
+  <div class="project-details">
+    <h1 class="project-details-title">{{ page.title }}</h1>
+    {% if page.category %}
+    {% assign cat = site.data.projectcategories | where: "id", page.category %}
+    <p class="project-details-metadata">Category: {{ cat.first.label }}</p>
+    {% endif %}
+    {% if page.start and page.end %}
+    <p class="project-details-metadata">Duration: {{ page.start | date: "%m/%Y"}}&ndash;{{page.end | date: "%m/%Y" }}</p>
+    {% endif %}
+    {% if page.release %}
+    <p class="project-details-metadata">Release: {{ page.release | date: "%m/%Y" }}</p>
+    {% endif %}
+
+    {{gallery}}
+    {{content}}
+  </div>
+</article>
