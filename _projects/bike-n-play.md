@@ -17,24 +17,18 @@ gallery:
     author: "FluidTime"
 ---
 
+During this project, I developed a prototype for a field study in Vienna. It's a mobile geolocation-based game. For a second game, I implemented bridge in form of a native Android Application, which enables communication between Bluetooth buttons ([Flic Buttons](https://flic.io/)) and Unity applications.
+
 The project Bike'N'Play develops gaming approaches for the integration of cycling data into popular computer games of different game genres. By utilizing existing games, the target group of non-cyclists can be reached and motivated to start cycling.
 
-The main aspects for the success of the project proposal and its continued utilization are the application and advancement of innovative interaction platforms (wearables), the development of gaming approaches for different persuasion and player types, and the conception of interfaces that enable games manufacturers to integrate mobility data into their games.
-
-## Team
-
-* Wolfgang Hochleitner (project leader)
-* Andrea Aschauer
-* Jürgen Hagler
-* Daniel Rammer
+## Focus and Tasks
+Game logic programming | game design
 
 ## Project Partners
-
 * [AIT Austrian Institute of Technology](http://www.ait.ac.at/)
 * [Austrian Players League](http://www.apl.at/)
 * [Fluidtime](https://www.fluidtime.com/)
 * [ovos media](http://www.ovos.at/)
 
 ## Website
-
 [Project Website](http://bikenplay.at/)

@@ -22,7 +22,5 @@ gallery:
 
 SobGob is a one on one staring duel. A player has to push balls towards the opponent by just staring at them. If both gaze on the same object nothing happens. This mind game is about finding the proper tactics against your adversary. Locking at powerups may disturb your opponent’s view – but it also could affect you screen. It’s a network application which utilizes Tobii eye trackers.
 
-## Links
-
-* [Game Jam Website](https://playful-interactive-environments.github.io/gamejam/2016/#dark-booty/)
-* [Download Windows Build](https://playful-interactive-environments.github.io/gamejam/2016/games/darkbooty.zip)
+## Focus and Tasks
+Game design | network programming | game logic programming

@@ -21,3 +21,6 @@ gallery:
 ---
 
 ARLock was part of a room escape installation. The application runs on two smartphones simultaneously and communicates via network. Two users have to cooperate and figure out the rules behind the two virtual terminals.
+
+## Focus and Tasks
+Game design | network | game logic | 3D modeling | everything (one man project)

@@ -20,8 +20,12 @@ gallery:
     description: "A screen shot of Dark Bootys high score screen."
 ---
 
-Dark Booty is the result of a 36 hour game jam. In Dark Booty, a group of pirates make out to discover long lost treasures hidden on the islands of a treacherous sea.
+Dark Booty is two to four player local cooperative game.
+It is the result of a 36-hour game jam. In Dark Booty, a group of pirates makes out to discover long lost treasures hidden on the islands of a treacherous sea.
 Spread out to find clues and treasure maps, as well as to divert any dangerous creatures lurking about. Only in your pirate cove in the MIDDLE OF THE MAP is the treasure safe.
+
+## Focus and Tasks
+Game logic programming | sound design
 
 ## Links
 

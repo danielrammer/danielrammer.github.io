@@ -23,10 +23,7 @@ gallery:
     description: "Screenshot of Arguenauts. Character menu."
 ---
 
-Arguenauts is a local Multiplayer fighting game played using Controllers. Two to four players take control of Astronauts and try to fight each other using gravity and stomping moves. Each player can change their own gravity freely. The player who survives the longest wins.
+Arguenauts is a local Multiplayer fighting game played using gamepads. Two to four players take control of Astronauts and try to fight each other using gravity and stomping moves. Players can change their own gravity freely. The one who survives the longest wins.
 
-## Team
-
-* Lorenz Krautgartner
-* Daniel Rammer
-* Moriz Ruehrlinger
+## Focus and Tasks
+Game design | physics based fighting system | game logic programming

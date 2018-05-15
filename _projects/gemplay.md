@@ -19,21 +19,17 @@ gallery:
     description: "The GEMPLAY seeker prototype"
 ---
 
+During the project, I developed two mobile geolocation-based game prototypes. Each of them targets a different player type and is therefore based on different game mechanics.
+
 The project GEMPLAY (GEndered games Motivating PhysicaL ActivitY) aims to promote regular physical exercise by incorporating personalized, gender-inclusive game experiences that reflect the preferences of various user types. The goal is to generate positive behavioral patterns as well as health benefits on a long-term basis.
 
-## Team
-
-* Michael Lankes (project leader)
-* Andreas Friedl
-* Wolfgang Hochleitner
-* Daniel Rammer
+## Focus and Tasks
+Game design | game logic programming
 
 ## Project Partners
-
 * [AIT Austrian Institute of Technology](http://www.ait.ac.at/)
 * [SimpliFlow](http://simpliflow.com/)
 * [ZIMD](http://www.zimd.at/)
 
 ## Website
-
 [Project Website](http://gemplay.at/)

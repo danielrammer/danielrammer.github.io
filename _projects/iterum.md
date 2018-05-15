@@ -23,10 +23,7 @@ gallery:
     description: "In game screenshot of Iterum. White with edge detection shader."
 ---
 
-Singleplayer puzzle game.
+Iterum is a first person singleplayer puzzle game. Inspired by games like Antichamber, it plays with morphing rooms und and unorthodox puzzles.
 
-## Team
-
-* Lale Maria Kerstenhann
-* Daniel Rammer
-* Moriz Ruehrlinger
+## Focus and Tasks
+Game design | game logic programming | level design

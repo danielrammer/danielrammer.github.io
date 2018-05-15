@@ -27,10 +27,9 @@ gallery:
 ---
 
 HIVE21 is a squad-based real-time strategy game set in the near future where intelligent life forms have invaded earth.
-The intruders quickly set up organic bases, the HIVEs, from where they launch and coordinate their operations.
-During the first weeks of contact human counter operations were quite effective, but then HIVE21 emerged,
-apparently the most powerful one, and things quickly went south. Now, most of human population is eradicated or scattered.
-Find and destroy HIVE21 and save the earth!
+
+## Focus and Tasks
+Game design | sound design | game music | game logic programming | level design
 
 ## Links
 
