@@ -6,7 +6,6 @@
 }
 
 @media (min-width: $nav-breakpoint) {
-
   .nav {
     flex-wrap: nowrap;
   }
@@ -47,7 +46,7 @@
   align-self: center;
   color: $link-color;
   padding: 1em 2em;
-  font-size: 0.8em;
+  font-size: 1.0em;
   font-weight: 600;
   cursor: pointer;
 }
@@ -79,7 +78,7 @@
 }
 
 .nav_item {
-  flex: 1;
+  flex: 0.1; /* flex: 1; */
   text-align: center;
   align-self: center;
 }
@@ -88,9 +87,10 @@
   text-decoration: none;
   color: $link-color;
   display: inline-block;
-  font-size: 0.8em;
+  font-size: 1.0em;
   font-weight: 600;
   padding: 0.4em;
+  width: 80%;
 }
 
 @media (min-width: $nav-breakpoint) {

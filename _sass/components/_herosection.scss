@@ -27,11 +27,12 @@
 .hero-button {
   display: inline-block;
   margin-top: 2em;
-  padding: 0.5em 1.5em;
+  padding: 1.0em 2.0em;
   background-color: $button-color;
   border-radius: 5px;
   line-height: 1em;
   color: #fff;
+  opacity: 0.66;
   text-decoration: none;
   transition: background-color 120ms ease-out;
 

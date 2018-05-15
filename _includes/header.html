@@ -1,11 +1,13 @@
 <nav class="nav">
+  {% comment %}
   <div class="logo">
     <a class="logo_link" href="{{'/' | prepend: site.baseurl | prepend: site.url}}">
       {% include icons/logo_placeholder.svg %}
     </a>
   </div>
+  {% endcomment %}
   <div class="menu_toggle">
-    <a id="menu_toggle_button" class="menu_toggle_button">Menu</a>
+    <a id="menu_toggle_button" class="menu_toggle_button">MENU</a>
   </div>
   <ul id="nav_list" class="nav_list" role="menubar">
     {% assign navitems = site.data.navigation | sort: "weight" %}
