@@ -21,6 +21,9 @@ gallery:
   - file: "arguenauts-chars.jpg"
     preview: "arguenauts-chars-150.jpg"
     description: "Screenshot of Arguenauts. Character menu."
+  - video: "fBzj-1wuGIk"
+    type: "youtube"
+    preview: "arguenauts-preview.jpg"
 ---
 
 Arguenauts is a local Multiplayer fighting game played using gamepads. Two to four players take control of Astronauts and try to fight each other using gravity and stomping moves. Players can change their own gravity freely. The one who survives the longest wins.
