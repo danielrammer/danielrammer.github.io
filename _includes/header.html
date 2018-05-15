@@ -7,7 +7,9 @@
   </div>
   {% endcomment %}
   <div class="menu_toggle">
-    <a id="menu_toggle_button" class="menu_toggle_button">MENU</a>
+    <a id="menu_toggle_button" class="menu_toggle_button">
+      {% include icons/menu.svg %}
+    </a>
   </div>
   <ul id="nav_list" class="nav_list" role="menubar">
     {% assign navitems = site.data.navigation | sort: "weight" %}

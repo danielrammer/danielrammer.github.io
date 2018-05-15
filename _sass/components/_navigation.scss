@@ -45,10 +45,16 @@
 .menu_toggle_button {
   align-self: center;
   color: $link-color;
-  padding: 1em 2em;
+  padding: 0em 2em;
   font-size: 1.0em;
   font-weight: 600;
-  cursor: pointer;
+  cursor: pointer; 
+  fill: $primary-color;
+
+}
+
+.menu_toggle_button:hover > svg {
+  fill: black;
 }
 
 @media (min-width: $nav-breakpoint) {
@@ -81,6 +87,7 @@
   flex: 0.1; /* flex: 1; */
   text-align: center;
   align-self: center;
+    padding: 0.4em;
 }
 
 .nav_link {
