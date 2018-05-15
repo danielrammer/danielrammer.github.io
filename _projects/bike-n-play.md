@@ -1,7 +1,7 @@
 ---
 title: Bike'N'Play
 date: 2015-07-01
-category: 1
+category: 2
 start: 2015-07-01
 end: 2017-06-30
 subpage: false
