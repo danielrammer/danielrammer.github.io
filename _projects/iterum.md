@@ -6,15 +6,21 @@ release: 2016-06-01
 subpage: false
 titleimage: "iterum-near.jpg"
 gallery:
+  - file: "iterum-near.jpg"
+    preview: "iterum-near-150.jpg"
+    description: "In game screenshot of Iterum."
   - file: "iterum-balcony.jpg"
-    preview: "iterum-balcony.jpg"
-    description: "No way to go."
+    preview: "iterum-balcony-150.jpg"
+    description: "In game screenshot of Iterum. On a balcony."
   - file: "iterum-p1.jpg"
-    preview: "iterum-p1.jpg"
-    description: "How can I reach this."
+    preview: "iterum-p1-150.jpg"
+    description: "In game screenshot of Iterum."
   - file: "iterum-stairway.jpg"
-    preview: "iterum-stairway.jpg"
-    description: "The twisted stairway puzzle."
+    preview: "iterum-stairway-150.jpg"
+    description: "In game screenshot of Iterum. In a stairway"
+  - file: "iterum-edge.jpg"
+    preview: "iterum-edge-150.jpg"
+    description: "In game screenshot of Iterum. White with edge detection shader."
 ---
 
 Singleplayer puzzle game.
