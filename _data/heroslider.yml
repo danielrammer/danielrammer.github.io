@@ -1,13 +1,27 @@
-- file: "projects/iterum/iterum-near.jpg"
+- file: "projects/iterum/iterum-blurred.jpg"
   title: "Daniel Rammer"
-  subtitle: "Game Developer."
+  subtitle: "Game development generalist."
   more:
     label: "Contact"
     link:  "/contact/"
 
 - file: "projects/cargo/cargo-3players.jpg"
   title: "CARGO"
-  subtitle: "CARGO."
+  subtitle: "Collaborative hybrid VR."
   more:
     label: "Learn more"
     link:  "/projects/cargo/"
+
+- file: "projects/arLock/arlock-blurred.jpg"
+  title: "ARLock"
+  subtitle: "Moblie AR room escape puzzle."
+  more:
+    label: "Learn more"
+    link:  "/projects/arLock/"
+
+- file: "projects/arguenauts/arguenauts-blurred.jpg"
+  title: "Arguenauts"
+  subtitle: "Local four player brawler."
+  more:
+    label: "Learn more"
+    link:  "/projects/arguenauts/"
