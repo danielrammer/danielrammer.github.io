@@ -9,9 +9,9 @@
 title: Daniel Rammer
 email: dnl.rammer@gmail.com
 description: Generalistic game developer from Austria
-baseurl: "/pie.fh-hagenberg.at" # the subpath of your site, e.g. /blog
+baseurl: "/github.com/redovic" # the subpath of your site, e.g. /blog
 #url: "https://github.com/redovic" # the base hostname & protocol for your site
-url: "http://playful-interactive-environments.github.io" # the base hostname & protocol for your site
+url: "https://redovic.github.io" # the base hostname & protocol for your site
 facebook: daniel.rammer
 
 # Build settings
