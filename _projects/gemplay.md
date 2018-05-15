@@ -21,10 +21,6 @@ gallery:
 
 The project GEMPLAY (GEndered games Motivating PhysicaL ActivitY) aims to promote regular physical exercise by incorporating personalized, gender-inclusive game experiences that reflect the preferences of various user types. The goal is to generate positive behavioral patterns as well as health benefits on a long-term basis.
 
-To achieve these goals, the project GEMPLAY focuses on the disciplines movement behavior, play behavior and persuasion.
-
-An essential part of the current research project is the gender-scientific grounded approach. Thereby, gender-related aspects are not only regarded in their particular subdisciplines, but also in the entire scientific discourse of the concept. The following image emphasizes this correlation and the interdisciplinarity of the research project.
-
 ## Team
 
 * Michael Lankes (project leader)

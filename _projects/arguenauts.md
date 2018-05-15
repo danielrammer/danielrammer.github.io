@@ -4,7 +4,7 @@ date: 2016-02-01
 category: 1
 release: 2016-06-01
 subpage: false
-titleimage: "arguenauts-gameStart.jpg"
+titleimage: "arguenauts-preview.jpg"
 gallery:
   - file: "arguenauts-gameStart.jpg"
     preview: "arguenauts-gameStart-150.jpg"

@@ -4,7 +4,7 @@ date: 2016-12-01
 category: 1
 release: 2016-12-1
 subpage: false
-titleimage: "darkbooty_image1_full.jpg"
+titleimage: "darkbooty-preview.jpg"
 gallery:
   - file: "darkbooty_image1_full.jpg"
     preview: "darkbooty_image1_full-150.jpg"

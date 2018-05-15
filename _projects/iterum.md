@@ -4,7 +4,7 @@ date: 2016-06-01
 category: 1
 release: 2016-06-01
 subpage: false
-titleimage: "iterum-near.jpg"
+titleimage: "iterum-preview.jpg"
 gallery:
   - file: "iterum-near.jpg"
     preview: "iterum-near-150.jpg"

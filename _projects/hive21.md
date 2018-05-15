@@ -4,7 +4,7 @@ date: 2016-02-01
 category: 1
 release: 2015-5-1
 subpage: false
-titleimage: "hive-defend.jpg"
+titleimage: "hive-preview.jpg"
 gallery:
   - file: "hive-defend.jpg"
     preview: "hive-defend-150.jpg"

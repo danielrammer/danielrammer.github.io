@@ -4,17 +4,17 @@ date: 2016-09-08
 category: 1
 release: 2016-09-08
 subpage: false
-titleimage: "cargo-somePlayers.jpg"
+titleimage: "cargo-preview.jpg"
 gallery:
+  - file: "cargo-3players.jpg"
+    preview: "cargo-3players-150.jpg"
+    description: "Two VR players and a spectator cooperating."
   - file: "cargo-somePlayers.jpg"
     preview: "cargo-somePlayers.jpg"
     description: "One VR players and four spectators cooperating."
   - file: "cargo-1player.jpg"
     preview: "cargo-1player-150.jpg"
     description: "A VR player steering the ship in Cargo."
-  - file: "cargo-3players.jpg"
-    preview: "cargo-3players-150.jpg"
-    description: "Two VR players and a spectator cooperating."
   - file: "cargo-game.jpg"
     preview: "cargo-game-150.jpg"
     description: "A close-up shot of the player avatars in Cargo."

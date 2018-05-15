@@ -4,7 +4,7 @@ date: 2016-12-01
 category: 1
 release: 2017-2-1
 subpage: false
-titleimage: "sobGob-4.jpg"
+titleimage: "sobGob-preview.jpg"
 gallery:
   - file: "sobGob-4.jpg"
     preview: "sobGob-4-150.jpg"
