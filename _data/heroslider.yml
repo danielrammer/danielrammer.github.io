@@ -5,9 +5,9 @@
     label: "Contact"
     link:  "/contact/"
 
-- file: "projects/bike-n-play/bike-n-play-bicycle.jpg"
-  title: "Bike'N'Play"
-  subtitle: "Developing gaming approaches for the integration of<br>cycling data into popular computer games of different game genres."
+- file: "projects/cargo/cargo-3players.jpg"
+  title: "CARGO"
+  subtitle: "CARGO."
   more:
     label: "Learn more"
-    link:  "/projects/bike-n-play/"
+    link:  "/projects/cargo/"
