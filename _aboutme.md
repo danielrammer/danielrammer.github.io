@@ -1,7 +1,7 @@
 
 It’s a me - Daniel. 
 
-During the bachelor's degree programme, I started to develop my passion for game development. Since back then my fascination is unbroken and I constantly work on diverse game projects. During the master's degree programme, I worked in a research department in which I could gain experience in game design and game development ... and satisfy my preference xD. The [projects]({{ site.baseurl }}/projects/) on this website are an excerpt, which should provide an overview of my experience.
+During the bachelor's degree programme, I started to develop my passion for creating games. Since back then my fascination is unbroken and I constantly work on diverse game projects. During the master's degree programme, I worked in a research department in which I could gain experience in game design and game development ... and satisfy my preference xD. The [projects]({{ site.baseurl }}/projects/) on this website are an excerpt, which should provide an overview of my experience.
 
 ### Education:
 * 2012 - 2015: University of Applied Sciences Hagenberg - [Media Technology and Design](https://www.fh-ooe.at/en/hagenberg-campus/studiengaenge/bachelor/media-technology-and-design/) BSc
