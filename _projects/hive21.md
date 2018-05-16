@@ -2,7 +2,7 @@
 title: HIVE21
 date: 2016-02-01
 category: 1
-release: 2015-5-1
+release: 2014-11-1
 subpage: false
 titleimage: "hive-preview.jpg"
 gallery:

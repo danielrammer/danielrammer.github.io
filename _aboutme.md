@@ -1,21 +1,17 @@
 
-The [projects]({{ site.baseurl }}/projects/) on this website are an excerpt, which should provide an overview of my experience.
+It’s a me - Daniel. 
+
+During the bachelor's degree programme, I started to develop my passion for game development. Since back then my fascination is unbroken and I constantly work on diverse game projects. During the master's degree programme, I worked in a research department in which I could gain experience in game design and game development ... and satisfy my preference xD. The [projects]({{ site.baseurl }}/projects/) on this website are an excerpt, which should provide an overview of my experience.
 
 ### Education:
 * 2012 - 2015: University of Applied Sciences Hagenberg - [Media Technology and Design](https://www.fh-ooe.at/en/hagenberg-campus/studiengaenge/bachelor/media-technology-and-design/) BSc
 * 2015 - 2017: University of Applied Sciences Hagenberg - [Interactive Media](https://www.fh-ooe.at/en/hagenberg-campus/studiengaenge/master/interactive-media/) MSc
 
-### Professional esperience
+### Professional Experience
 * 2015 - 2017 Researcher at [Playful Interactive Environments (PIE)](https://pie.fh-hagenberg.at/)
 * 2007 - 2012 Programmer in Robotics
 
-{% comment %}
 ### Hobbies
-* Trevelling
+* Travel
 * Hiking
-* Games (both, developing and playing them)
-{% endcomment %}
-Before I went to university I worked in robotics.
-
-
-It's a me - me has worked hard and hardly. Also in [Playful Interactive Environments (PIE)](https://pie.fh-hagenberg.at/). I studied at the University of Applied Sciences Upper Austria, [School of Informatics, Communication and Media](https://www.fh-ooe.at/en/hagenberg-campus/) in Hagenberg.
+* Games --> not only producing but also using them ;)
