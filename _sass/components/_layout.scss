@@ -1,11 +1,13 @@
 .page-wrapper {
+  display: block;
+  overflow: auto;
   margin-top: 1em;
   margin-left: auto;
   margin-right: auto;
   transition: max-width 180ms ease-out;
   padding-left: 1em;
   padding-right: 1em;
-  padding-bottom: 3em;
+  padding-bottom: 1em;
 
   @media (min-width: $screen-md) {
     max-width: $screen-md - 70px;

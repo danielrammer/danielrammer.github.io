@@ -21,6 +21,12 @@ layout: default
 </div>
 
 <div class="page-wrapper">
+  {% comment %}
+  {% capture portrait %}
+  {% include_relative _portrait.md %}
+  {% endcapture %}
+  {{portrait | markdownify }}
+  {% endcomment %}
   {% capture aboutpielab %}
   {% include_relative _aboutpielab.md %}
   {% endcapture %}
