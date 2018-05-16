@@ -21,16 +21,16 @@ layout: default
 </div>
 
 <div class="page-wrapper">
-  {% comment %}
-  {% capture portrait %}
-  {% include_relative _portrait.md %}
-  {% endcapture %}
-  {{portrait | markdownify }}
-  {% endcomment %}
-  {% capture aboutpielab %}
-  {% include_relative _aboutpielab.md %}
-  {% endcapture %}
-  {{aboutpielab | markdownify }}
+    {% capture portrait %}
+    {% include_relative _portrait.md %}
+    {% endcapture %}
+    {{portrait | markdownify }}
+  <div class="aboutme">
+    {% capture aboutme %}
+    {% include_relative _aboutme.md %}
+    {% endcapture %}
+    {{aboutme | markdownify }}
+  </div>
 </div>
 
 <script src="https://npmcdn.com/flickity@1.1/dist/flickity.pkgd.min.js"></script>
