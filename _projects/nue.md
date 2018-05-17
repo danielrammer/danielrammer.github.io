@@ -20,7 +20,7 @@ gallery:
     description: "Notwendiges Übel played in a pub."
 ---
 
-Notwendiges Übel is a game jam game, built in 36 hours, awarded with 1st place. It's an endless boss fight for one to four players fighting together. 
+Notwendiges Übel is a game jam game, built in 36 hours and awarded 1st place. It's an endless boss encounter for one to four players fighting together.
 
 "Fight against the boss by destroying his “Exo-parts”.
 Only colored “Exo-Parts” will take damage. Your bullets have to have the same color as the part you want to attack.
