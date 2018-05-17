@@ -9,9 +9,10 @@ During the bachelor's degree programme, I started to develop the passion for cre
 
 ### Professional Experience
 * 2015 - 2017 Researcher at [Playful Interactive Environments (PIE)](https://pie.fh-hagenberg.at/)
-* 2007 - 2012 Programmer in Robotics
+* 2007 - 2012 Programmer and technician in robotics
 
 ### Hobbies
 * Travel
 * Hiking
+* History
 * Games --> not only producing but also using them ;)
