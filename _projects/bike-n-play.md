@@ -17,7 +17,7 @@ gallery:
     author: "FluidTime"
 ---
 
-During this project, I developed a prototype for a field study in Vienna. It's a mobile geolocation-based game. For a second game, I implemented bridge in form of a native Android Application, which enables communication between Bluetooth buttons ([Flic Buttons](https://flic.io/)) and Unity applications.
+During this project, I developed a prototype for a field study in Vienna. It's a mobile geolocation-based game. For a second game, I implemented a bridge in form of a native Android Application, which enables communication between Bluetooth buttons ([Flic Buttons](https://flic.io/)) and Unity applications.
 
 The project Bike'N'Play develops gaming approaches for the integration of cycling data into popular computer games of different game genres. By utilizing existing games, the target group of non-cyclists can be reached and motivated to start cycling.
 

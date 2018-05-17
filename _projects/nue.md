@@ -31,5 +31,5 @@ Avoid hostile bullets and lasers AND REACH A NEW HIGHSCORE!"
 ## Focus and Tasks
 Vfx and shader | game logic programming | sound
 
-## Links
-* [Download Windows Build](NotwendigesUebel.zip)
+## Download
+* [Windows Version](NotwendigesUebel.zip)

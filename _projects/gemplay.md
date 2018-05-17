@@ -19,7 +19,7 @@ gallery:
     description: "The GEMPLAY seeker prototype"
 ---
 
-During the project, I developed two mobile geolocation-based game prototypes. Each of them targets a different player type and is therefore based on different game mechanics.
+During the project, I developed two mobile geolocation-based game prototypes. Each of them targets a different player type and therefore is based on different game mechanics.
 
 The project GEMPLAY (GEndered games Motivating PhysicaL ActivitY) aims to promote regular physical exercise by incorporating personalized, gender-inclusive game experiences that reflect the preferences of various user types. The goal is to generate positive behavioral patterns as well as health benefits on a long-term basis.
 

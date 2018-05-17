@@ -27,5 +27,5 @@ Spread out to find clues and treasure maps, as well as to divert any dangerous c
 ## Focus and Tasks
 Game logic programming | sound design
 
-## Links
-* [Download Windows Build](https://playful-interactive-environments.github.io/gamejam/2016/games/darkbooty.zip)
+## Download
+* [Windows Version](https://playful-interactive-environments.github.io/gamejam/2016/games/darkbooty.zip)

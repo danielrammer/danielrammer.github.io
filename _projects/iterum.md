@@ -29,4 +29,4 @@ Iterum is a first person singleplayer puzzle game. Inspired by games like Antich
 Game design | game logic programming | level design
 
 ## Download
-* [Iterum Windows Build](ITERUM.zip)
+* [Windows Version](ITERUM.zip)
