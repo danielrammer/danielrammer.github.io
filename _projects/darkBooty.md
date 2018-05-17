@@ -28,6 +28,4 @@ Spread out to find clues and treasure maps, as well as to divert any dangerous c
 Game logic programming | sound design
 
 ## Links
-
-* [Game Jam Website](https://playful-interactive-environments.github.io/gamejam/2016/#dark-booty/)
 * [Download Windows Build](https://playful-interactive-environments.github.io/gamejam/2016/games/darkbooty.zip)

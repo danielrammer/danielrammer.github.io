@@ -32,5 +32,4 @@ Avoid hostile bullets and lasers AND REACH A NEW HIGHSCORE!"
 Vfx and shader | game logic programming | sound
 
 ## Links
-* [Game Jam Website](https://playful-interactive-environments.github.io/gamejam/2015/#notwendiges-%C3%BCbel)
-* [Download Windows Build](https://playful-interactive-environments.github.io/gamejam/2015/games/notwendigesuebel.zip)
+* [Download Windows Build](NotwendigesUebel.zip)
