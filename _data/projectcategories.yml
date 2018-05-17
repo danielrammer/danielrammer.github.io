@@ -3,8 +3,8 @@
   labelplural: University Projects
 
 - id: 2
-  label: Funded Research Project
-  labelplural: Funded Research Projects
+  label: Research Project
+  labelplural: Research Projects
 #- id: 2
 #  label: Internal Research Project
 #  labelplural: Internal Research Projects

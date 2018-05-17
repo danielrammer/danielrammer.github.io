@@ -13,7 +13,7 @@ layout: default
         <p>{{slide.subtitle}}</p>
         {% endif %}
         {% if slide.more %}
-        <p><a class="hero-button" href="{{slide.more.link |prepend: site.baseurl}}">{% if slide.more.label %}{{slide.more.label}}{% else %}Learn more{% endif %}</a></p>
+        <p><a class="hero-button" href="{{slide.more.link |prepend: site.baseurl}}">{% if slide.more.label %}{{slide.more.label}}{% else %}Details{% endif %}</a></p>
         {% endif %}
       </div>
     {% endfor %}

@@ -1,6 +1,6 @@
 ---
 title: SobGob
-date: 2016-12-01
+date: 2017-2-1
 category: 1
 release: 2017-2-1
 subpage: false

@@ -25,6 +25,7 @@ The project Bike'N'Play develops gaming approaches for the integration of cyclin
 Game logic programming | game design
 
 ## Project Partners
+* [Playful Interactive Environments (PIE)](https://pie.fh-hagenberg.at/)
 * [AIT Austrian Institute of Technology](http://www.ait.ac.at/)
 * [Austrian Players League](http://www.apl.at/)
 * [Fluidtime](https://www.fluidtime.com/)
@@ -32,3 +33,6 @@ Game logic programming | game design
 
 ## Website
 [Project Website](http://bikenplay.at/)
+
+## Publication
+[No Need to Stop – Exploring Smartphone Interaction Paradigms While Cycling](https://dl.acm.org/citation.cfm?id=3152871)

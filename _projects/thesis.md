@@ -1,7 +1,7 @@
 ---
 title: Thesis Project
-date: 2016-02-01
-category: 1
+date: 2017-03-01
+category: 2
 release: 2017-03-01
 subpage: false
 titleimage: "mika-preview2.jpg"

@@ -27,9 +27,13 @@ The project GEMPLAY (GEndered games Motivating PhysicaL ActivitY) aims to promot
 Game design | game logic programming
 
 ## Project Partners
+* [Playful Interactive Environments (PIE)](https://pie.fh-hagenberg.at/)
 * [AIT Austrian Institute of Technology](http://www.ait.ac.at/)
 * [SimpliFlow](http://simpliflow.com/)
 * [ZIMD](http://www.zimd.at/)
 
 ## Website
 [Project Website](http://gemplay.at/)
+
+## Publication
+[From Classes to Mechanics: Player Type Driven Persuasive Game Development](https://dl.acm.org/citation.cfm?id=2810316)
