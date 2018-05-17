@@ -4,17 +4,17 @@ date: 2015-12-01
 category: 1
 release: 2015-12-1
 subpage: false
-titleimage: "nue-preview.jpg"
+titleimage: "nue-preview2.jpg"
 gallery:
-  - file: "nue-fight01.jpg"
-    preview: "nue-fight01-150.jpg"
+  - file: "nue-chaos.jpg"
+    preview: "nue-chaos-150.jpg"
     description: "A screenshot of Notwendiges Übel."
   - file: "nue-explosion.jpg"
     preview: "nue-explosion-150.jpg"
     description: "A screenshot of Notwendiges Übel."
-  - file: "nue-fight02.jpg"
-    preview: "nue-fight02-150.jpg"
-    description: "A screenshot of Notwendiges Übel."
+  - file: "nue-highscore.jpg"
+    preview: "nue-highscore-150.jpg"
+    description: "A screenshot of the high score Notwendiges Übel."
   - file: "nue-pub.jpg"
     preview: "nue-pub-150.jpg"
     description: "Notwendiges Übel played in a pub."
