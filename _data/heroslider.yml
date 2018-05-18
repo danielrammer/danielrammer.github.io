@@ -9,26 +9,26 @@
   title: "CARGO"
   subtitle: "Collaborative hybrid VR."
   more:
-    label: "Learn more"
+    label: "Details"
     link:  "/projects/cargo/"
 
 - file: "projects/arguenauts/arguenauts-blurred.jpg"
   title: "Arguenauts"
   subtitle: "Local four player brawler."
   more:
-    label: "Learn more"
+    label: "Details"
     link:  "/projects/arguenauts/"
 
 - file: "projects/iterum/iterum-blurred.jpg"
   title: "Iterum"
   subtitle: "Singleplayer puzzle game."
   more:
-    label: "Learn more"
+    label: "Details"
     link:  "/projects/iterum/"
 
 - file: "projects/arLock/arlock-blurred.jpg"
   title: "ARLock"
   subtitle: "Moblie AR room escape puzzle."
   more:
-    label: "Learn more"
+    label: "Details"
     link:  "/projects/arLock/"
