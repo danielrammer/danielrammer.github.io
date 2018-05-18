@@ -18,17 +18,17 @@ ___
 ___
 ## Skills ##
 
-### ++++++++++++++++++++++++++++++++++
+### +++++++++++++++++++++
 
 {:.skillTxt}
 C# \| Unity \| Game Design \| Photoshop
 
-### +++++++++++++++++++++
+### +++++++++++++
 
 {:.skillTxt}
 Java  \| Maya \| Illustrator \| After Effects \| Premiere
 
-### +++++++++++++
+### ++++++++
 
 {:.skillTxt}
 C++ \| Python \| JavaScript
