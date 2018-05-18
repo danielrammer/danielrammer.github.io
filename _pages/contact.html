@@ -18,10 +18,10 @@ Web: [https://redovic.github.io/](https://redovic.github.io/)
 <div class="formContainer">  
   <form id="contact" action="https://formspree.io/dnl.rammer@gmail.com" method="post">
     <fieldset>
-      <input placeholder="Your name" type="text" tabindex="1" required autofocus>
+      <input name="name" placeholder="Your name" type="text" tabindex="1" required autofocus>
     </fieldset>
     <fieldset>
-      <input placeholder="Your Email Address" type="email" tabindex="2" required>
+      <input name="email" placeholder="Your Email Address" type="email" tabindex="2" required>
     </fieldset>
     <!-- <fieldset>
       <input placeholder="Your Phone Number" type="tel" tabindex="3" required>
@@ -30,7 +30,7 @@ Web: [https://redovic.github.io/](https://redovic.github.io/)
       <input placeholder="Your Web Site starts with http://" type="url" tabindex="4" required>
     </fieldset> -->
     <fieldset>
-      <textarea placeholder="Type your Message Here..." tabindex="3" required></textarea>
+      <textarea name="message" placeholder="Type your Message Here..." tabindex="3" required></textarea>
     </fieldset>
     <fieldset>
       <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>

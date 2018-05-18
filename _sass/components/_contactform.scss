@@ -7,7 +7,9 @@
 	position:relative;
 }
 
-#contact input[type="text"], #contact input[type="email"], #contact input[type="tel"], #contact input[type="url"], #contact textarea, #contact button[type="submit"] { font:400 12px/16px "Open Sans", Helvetica, Arial, sans-serif; }
+#contact input[type="text"], #contact input[type="email"], #contact input[type="tel"], #contact input[type="url"], #contact textarea, #contact button[type="submit"] { 
+	font: .9em "Open Sans", Helvetica, Arial, sans-serif;
+}
 
 #contact {
 	background:#F9F9F9;
@@ -15,7 +17,7 @@
 
 fieldset {
 	border: medium none !important;
-	margin: 0 0 10px;
+	margin: 0 0 1em;
 	min-width: 100%;
 	padding: 0;
 	width: 100%;
@@ -24,8 +26,9 @@ fieldset {
 #contact input[type="text"], #contact input[type="email"], #contact input[type="tel"], #contact input[type="url"], #contact textarea {
 	width:100%;
 	border:1px solid #fff;
+	border-radius: 2px;
 	background:#fff;
-	padding:10px;
+	padding:1em;
 }
 
 #contact input[type="text"]:hover, #contact input[type="email"]:hover, #contact input[type="tel"]:hover, #contact input[type="url"]:hover, #contact textarea:hover {
@@ -38,6 +41,7 @@ fieldset {
 #contact textarea {
 	height:100px;
 	max-width:100%;
+	font: .9em "Open Sans", Helvetica, Arial, sans-serif;
 	/*resize:none;*/
 }
 
@@ -45,8 +49,8 @@ fieldset {
 	cursor:pointer;
 	width:100%;
 	border:none;
-	margin:0 0 5px;
-	padding:10px;
+	margin:0 0 1em;
+  	padding: 1.0em 2.0em;
 
 	background-color: $button-color;
 	border-radius: 2px;
