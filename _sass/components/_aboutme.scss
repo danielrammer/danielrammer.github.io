@@ -1,5 +1,19 @@
 .aboutme{
 	display: block;
   	margin-right: 1em;
+  	margin-bottom: 1em;
   	overflow: auto;
+}
+
+.subtleLine {
+	margin-left: 1em;
+	margin-right: 1em;
+	border: none;
+    height: 3px;
+    /*color: #aaa; /* old ie */
+    background-color: rgba(0,0,0,.05); /* Modern Browsers */
+}
+
+.skillTxt {
+	margin-top: 0em;
 }
