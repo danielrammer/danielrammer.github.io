@@ -8,7 +8,7 @@
 # Site settings
 title: Daniel Rammer
 email: dnl.rammer@gmail.com
-description: Dame development generalist
+description: Game development generalist
 #baseurl: "/github.com/redovic" # the subpath of your site, e.g. /blog
 url: "https://redovic.github.io" # the base hostname & protocol for your site
 facebook: daniel.rammer
