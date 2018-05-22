@@ -3,6 +3,7 @@ title: HIVE21
 date: 2014-11-1
 category: 1
 release: 2014-11-1
+facts: PC | Single-Player | Real-Time Strategy
 subpage: false
 titleimage: "hive-preview.jpg"
 gallery:
@@ -32,5 +33,4 @@ HIVE21 is a squad-based real-time strategy game set in the near future where int
 Game design | sound design | game music | game logic programming | level design
 
 ## Links
-
 [IndieDB Page](http://www.indiedb.com/games/hive21/)

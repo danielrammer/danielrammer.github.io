@@ -1,8 +1,9 @@
 ---
 title: Cargo
-date: 2016-09-08
+date: 2017-09-08
 category: 1
 release: 2016-09-08
+facts: Smartphone (Android) | PC | VR | Co-Located interactions | Laser Tracking | Networked
 subpage: false
 titleimage: "cargo-preview.jpg"
 gallery:

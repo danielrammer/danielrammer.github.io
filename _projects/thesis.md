@@ -3,6 +3,7 @@ title: Thesis Project
 date: 2017-03-01
 category: 2
 release: 2017-03-01
+facts: Smartphone (Android/GearVR) | PC | VR | HTC Vive Tracking | Laser Tracking | Networked | 2 User
 subpage: false
 titleimage: "mika-preview2.jpg"
 gallery:

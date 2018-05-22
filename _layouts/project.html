@@ -35,6 +35,9 @@ layout: page
     {% assign cat = site.data.projectcategories | where: "id", page.category %}
     <p class="project-details-metadata">Category: {{ cat.first.label }}</p>
     {% endif %}
+    {% if page.facts %}
+    <p class="project-details-metadata">Facts: {{ page.facts }}</p>
+    {% endif %}
     {% if page.start and page.end %}
     <p class="project-details-metadata">Duration: {{ page.start | date: "%m/%Y"}}&ndash;{{page.end | date: "%m/%Y" }}</p>
     {% endif %}

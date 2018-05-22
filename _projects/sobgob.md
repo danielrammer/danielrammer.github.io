@@ -3,6 +3,7 @@ title: SobGob
 date: 2017-2-1
 category: 1
 release: 2017-2-1
+facts: PC | 2 Players | Networked | Eye-Tracking
 subpage: false
 titleimage: "sobGob-preview.jpg"
 gallery:

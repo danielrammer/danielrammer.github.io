@@ -3,6 +3,7 @@ title: Q-Balls
 date: 2017-01-01
 category: 1
 release: 2017-01-01
+facts: PC | Installation | Networked | Image Processing
 subpage: false
 titleimage: "qballs-preview.jpg"
 gallery:
@@ -26,4 +27,4 @@ gallery:
 Q-Balls is a networked visual programming installation, which requires the user... to throw balls on a wall xD. Utilizing a regular webcam, an application sends the hit positions over the network. A second application renders on two different screens (projector, and tv) and uses the received positions to generate the bot-program, visually as well as in the form of valid source code.
 
 ## Focus and Tasks
-Concept | network programmin | image processing
+Concept | network programming | image processing

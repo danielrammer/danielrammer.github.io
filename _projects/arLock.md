@@ -3,6 +3,7 @@ title: ArLock
 date: 2017-1-1
 category: 1
 release: 2017-1-1
+facts: Smartphone (Android) | 2 Players | Co-Op | Networked
 subpage: false
 titleimage: "arlock-preview.jpg"
 gallery:

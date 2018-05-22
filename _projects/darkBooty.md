@@ -3,6 +3,7 @@ title: Dark Booty
 date: 2016-12-01
 category: 1
 release: 2016-12-1
+facts: PC | 2 - 4 Players | Local Co-Op
 subpage: false
 titleimage: "darkbooty-preview.jpg"
 gallery:
@@ -25,7 +26,7 @@ It is the result of a 36-hour game jam. In Dark Booty, a group of pirates makes 
 Spread out to find clues and treasure maps, as well as to divert any dangerous creatures lurking about. Only in your pirate cove in the MIDDLE OF THE MAP is the treasure safe.
 
 ## Focus and Tasks
-Game logic programming | sound design
+Game logic programming
 
 ## Download
 * [Windows Version](https://playful-interactive-environments.github.io/gamejam/2016/games/darkbooty.zip)

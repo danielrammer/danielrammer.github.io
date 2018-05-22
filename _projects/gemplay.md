@@ -4,6 +4,7 @@ date: 2014-07-01
 category: 2
 start: 2014-07-01
 end: 2016-12-31
+facts: Smartphone (Android) | Single-Player | Geo-Location
 subpage: false
 titleimage: "gemplay-preview.jpg"
 gallery:

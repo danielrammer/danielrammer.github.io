@@ -3,6 +3,7 @@ title: Iterum
 date: 2016-06-01
 category: 1
 release: 2016-06-01
+facts: PC | Single-Player | First-Person
 subpage: false
 titleimage: "iterum-preview2.jpg"
 gallery:

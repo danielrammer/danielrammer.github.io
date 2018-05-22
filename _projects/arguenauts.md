@@ -4,6 +4,7 @@ date: 2016-02-01
 category: 1
 release: 2016-06-01
 subpage: false
+facts: PC | 2 - 4 Players | Local Co-Op
 titleimage: "arguenauts-preview.jpg"
 gallery:
   - file: "arguenauts-gameStart.jpg"
@@ -29,4 +30,4 @@ gallery:
 Arguenauts is a local multiplayer fighting game. Two to four players take control of astronauts and try to fight each other using gravity and stomping moves. Players can change their own gravity freely. The one who survives the longest wins.
 
 ## Focus and Tasks
-Game design | physics based fighting system | game logic programming
+Game design | physics-based fighting system | game logic programming
