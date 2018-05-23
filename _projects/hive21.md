@@ -29,6 +29,33 @@ gallery:
 
 HIVE21 is a squad-based real-time strategy game set in the near future where intelligent life forms have invaded earth.
 
+## Soundtrack
+Music I created for HIVE21.
+(Please change browser if the player is not working.)
+
+#### Basic background music:
+<audio controls>
+  <source src="HIVE21_baseline.mp3" type="audio/mpeg">
+  <source src="HIVE21_baseline.ogg" type="audio/ogg">
+
+Your browser does not support the audio element.
+</audio>
+
+#### Time is running out:
+<audio controls>
+  <source src="HIVE21_noTime.mp3" type="audio/mpeg">
+  <source src="HIVE21_noTime.ogg" type="audio/ogg">
+
+Your browser does not support the audio element.
+</audio>
+
+#### Now you are in trouble:
+<audio controls>
+  <source src="HIVE21_pressureOnMe.mp3" type="audio/mpeg">
+  <source src="HIVE21_pressureOnMe.ogg" type="audio/ogg">
+Your browser does not support the audio element.
+</audio>
+
 ## Focus and Tasks
 Game design | sound design | game music | game logic programming | level design
 
