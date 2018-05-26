@@ -28,3 +28,6 @@ SobGob is a one on one staring duel. A player has to push balls towards the oppo
 
 ## Focus and Tasks
 Game design | network programming | game logic programming
+
+## Download
+* [Windows Version](SobGob.zip)
