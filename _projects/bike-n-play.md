@@ -16,6 +16,15 @@ gallery:
     preview: "bike-n-play-wearable-150.jpg"
     description: "Bike'N'Play smartwatch mockup"
     author: "FluidTime"
+  - file: "bnp-screenshot-start.jpg"
+    preview: "bnp-screenshot-start-150.jpg"
+    description: "Bike'N'Play screenshot start screen"
+  - file: "bnp-screenshot-map-close.jpg"
+    preview: "bnp-screenshot-map-close-150.jpg"
+    description: "Bike'N'Play screenshot start screen"
+  - file: "bnp-screenshot-map-wide.jpg"
+    preview: "bnp-screenshot-map-wide-150.jpg"
+    description: "Bike'N'Play screenshot start screen"
 ---
 
 During this project, I developed a prototype for a field study in Vienna. It's a mobile geolocation-based game. For a second game, I implemented a bridge in form of a native Android Application, which enables communication between Bluetooth buttons ([Flic Buttons](https://flic.io/)) and Unity applications.
