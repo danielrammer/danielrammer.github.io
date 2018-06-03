@@ -25,8 +25,8 @@ gallery:
   - file: "bnp-screenshot-map-wide.jpg"
     preview: "bnp-screenshot-map-wide-150.jpg"
     description: "Bike'N'Play screenshot map - zoomed out"
-  - file: "bike-n-play-preview.jpg"
-    preview: "bbike-n-play-preview-150.jpg"
+  - file: "bnp-bike-handle.jpg"
+    preview: "bnp-bike-handle-150.jpg"
     description: "Bike'N'Play - bike handlebar with button and smartphone"
 ---
 
