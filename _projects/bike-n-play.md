@@ -21,10 +21,13 @@ gallery:
     description: "Bike'N'Play screenshot start screen"
   - file: "bnp-screenshot-map-close.jpg"
     preview: "bnp-screenshot-map-close-150.jpg"
-    description: "Bike'N'Play screenshot start screen"
+    description: "Bike'N'Play screenshot map - zoomed in"
   - file: "bnp-screenshot-map-wide.jpg"
     preview: "bnp-screenshot-map-wide-150.jpg"
-    description: "Bike'N'Play screenshot start screen"
+    description: "Bike'N'Play screenshot map - zoomed out"
+  - file: "bike-n-play-preview.jpg"
+    preview: "bbike-n-play-preview-150.jpg"
+    description: "Bike'N'Play - bike handlebar with button and smartphone"
 ---
 
 During this project, I developed a prototype for a field study in Vienna. It's a mobile geolocation-based game. For a second game, I implemented a bridge in form of a native Android Application, which enables communication between Bluetooth buttons ([Flic Buttons](https://flic.io/)) and Unity applications.
