@@ -1,7 +1,7 @@
 
 It’s a me - Daniel.
 
-During the bachelor's degree programme, I started to develop the passion for creating games. Since back then my fascination is unbroken and I constantly work on game projects. During the master's degree programme, I worked in a research department in which I could gain expertise in game development and game design ... and satisfy my preference xD. Besides that, I have got experience in level design, sound design and more. The [projects]({{site.baseurl}}/projects/) on this website are an excerpt, which should provide an overview of my work.
+About four and a half years ago, I started to develop the passion for creating games. Since back then my fascination is unbroken and I constantly work on game projects. During the master's degree programme, I worked in a research department in which I could gain expertise in game development and game design. Besides that, I have got experience in level design, sound design and more. The [projects]({{site.baseurl}}/projects/) on this website are an excerpt, which should provide an overview of my work.
 Simply [contact]({{site.baseurl}}/contact/) me if you have any questions.
 
 ## Education
