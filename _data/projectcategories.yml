@@ -1,14 +1,15 @@
+- id: 0
+  label: Recent Project
+  labelplural: Current & Recent Projects
+
 - id: 1
   label: University Project
   labelplural: University Projects
 
 - id: 2
+  label: Game Jam Game
+  labelplural: Game Jam Games
+
+- id: 3
   label: Research Project
   labelplural: Research Projects
-#- id: 2
-#  label: Internal Research Project
-#  labelplural: Internal Research Projects
-#- id: 3
-#  label: Student Project
-#  labelplural: Student Projects
-  

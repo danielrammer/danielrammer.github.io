@@ -1,7 +1,7 @@
 ---
 title: Notwendiges Übel
 date: 2015-12-01
-category: 1
+category: 2
 release: 2015-12-1
 facts: PC | 1 - 4 Players | Local Co-Op
 subpage: false
