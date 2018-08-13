@@ -26,7 +26,25 @@ Swack is a naive swarm behavior implementation. A quick proof of concept of an i
 The WebGL box beneath shows an early stage of the project. You can control the swarm by moving around the attractor and manipulate the camera perspective.
 The frame rate drops you may experience does not occur in the desktop application.
 
-<iframe src="swack.html" width="100%" height="700"></iframe>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js"></script>
+<script type="text/javascript">
+$(function(){
+    $('#button').click(function(){ 
+        if(!$('#iframe').length) {
+                $('#iframeHolder').html('<iframe src="swack.html" width="100%" height="700"></iframe>');
+        }
+    });   
+});
+</script>
+ 
+<button 
+style="
+    border-radius: 1em;
+    background-color: white;
+    padding: 1em;
+    border: 0.1em solid #555555;"
+id="button">Click To Load Simulation</button>
+<div id="iframeHolder"></div>
 
 ### Controls
 *Move attractor/swarm:* "Arrow Keys", hold "Shift" for altitude
