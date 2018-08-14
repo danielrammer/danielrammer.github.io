@@ -23,7 +23,6 @@ As a hatchling, you have to make the first steps towards the incredibly long jou
 ## Some of the low poly models
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js"></script>
 <script type="text/javascript">
-    <link rel="stylesheet" href="main.css">
 $(function(){
     $('#button').click(function(){ 
         if(!$('#iframe').length) {
@@ -39,5 +38,5 @@ style="
     background-color: white;
     padding: 1em;
     border: 0.1em solid #555555;"
-id="button">Click To Load Animation</button>
+id="button">Click To Load Simulation</button>
 <div id="iframeHolder"></div>
