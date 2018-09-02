@@ -3,7 +3,7 @@ title: Tortuga
 date: 2018-07-04
 category: 0
 date: 2018-07-04
-facts: PC/Web | Simulation
+facts: Game | Mobile
 subpage: false
 titleimage: "tortuga-preview.jpg"
 gallery:
