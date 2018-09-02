@@ -37,6 +37,7 @@ style="
     border-radius: 1em;
     background-color: white;
     padding: 1em;
-    border: 0.1em solid #555555;"
+    border: 0.1em solid #555555;
+    cursor: pointer;"
 id="button">Click To Load Simulation</button>
 <div id="iframeHolder"></div>
