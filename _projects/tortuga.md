@@ -7,15 +7,18 @@ facts: PC/Web | Simulation
 subpage: false
 titleimage: "tortuga-preview.jpg"
 gallery:
+  - file: "tortuga-chased.png"
+    preview: "tortuga-chased-150.jpg"
+    description: "Two sharks chaseing the turtle (no in-game content)."
   - file: "tortuga-sand.png"
     preview: "tortuga-sand-150.jpg"
-    description: "a"
+    description: "Screenshot: on the beach."
   - file: "tortuga-ocean.png"
     preview: "tortuga-ocean-150.jpg"
-    description: "b"
+    description: "Screenshot: in open ocean."
   - file: "tortuga-score.png"
     preview: "tortuga-score-150.jpg"
-    description: "c"
+    description: "Online hight-score."
 ---
 
 As a hatchling, you have to make the first steps towards the incredibly long journey of a turtle. Eat to get stronger and avoid your natural enemies. Tortuga is a twitch skill one button mobile game.
