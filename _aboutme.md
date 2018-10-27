@@ -12,6 +12,7 @@ Simply [contact]({{site.baseurl}}/contact/) me if you have any questions.
 {:.subtleLine}
 ___
 ## Professional Experience
+* 2018 -      Researcher and Developer at [Ars Electronica Futurelab](https://ars.electronica.art/futurelab/)
 * 2015 - 2017 Researcher at [Playful Interactive Environments (PIE)](https://pie.fh-hagenberg.at/)
 * 2007 - 2012 Programmer and technician in robotics
 
