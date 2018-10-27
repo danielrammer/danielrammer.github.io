@@ -7,7 +7,7 @@ Simply [contact]({{site.baseurl}}/contact/) me if you have any questions.
 <!--
 ## Education
 * 2015 - 2017: University of Applied Sciences Hagenberg - [Interactive Media](https://www.fh-ooe.at/en/hagenberg-campus/studiengaenge/master/interactive-media/) MSc
-* 2012 - 2015: University of Applied Sciences Hagenberg - [Media Technology and Design](https://www.fh-ooe.at/en/hagenberg-campus/studiengaenge/bachelor/media-technology-and-design/) BSc
+* 2012 - 2015: University of Applied Sciences Hagenberg - [Media Technology and Design](https://www.fh-ooe.at/en/hagenberg-campus/studiengaenge/bachelor/media-technology-and-design/) BSc -->
 
 {:.subtleLine}
 ___
@@ -40,4 +40,4 @@ ___
 German | English
 
 ## Hobbies
-Travel | Hiking | History | Games --> not only producing but also using them ;) -->
+Travel | Hiking | History | Games --> not only producing but also using them ;)
