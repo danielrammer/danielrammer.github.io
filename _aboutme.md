@@ -1,8 +1,13 @@
 
+<!--
 It’s a me - Daniel.
+
+I love creating games and play.
+
 
 About four and a half years ago, I started to develop the passion for creating games. Since back then my fascination is unbroken and I constantly work on game projects. During the master's degree programme, I worked in a research department in which I could gain expertise in game development and game design. Besides that, I have got experience in level design, sound design and more. The [projects]({{site.baseurl}}/projects/) on this website are an excerpt, which should provide an overview of my work.
 Simply [contact]({{site.baseurl}}/contact/) me if you have any questions.
+-->
 
 <!--
 ## Education
@@ -46,5 +51,5 @@ ___
 German | English
 
 ## Hobbies
-Travel | Hiking | History | Games --> not only producing but also using them ;)
+Travel | Hiking | History | Games -> not only producing but also using them ;)
 -->
