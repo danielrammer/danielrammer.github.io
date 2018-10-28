@@ -21,15 +21,20 @@ gallery:
     description: "Online hight-score."
 ---
 
-As a hatchling, you have to make the first steps towards the incredibly long journey of a turtle. Eat to get stronger and avoid your natural enemies. Tortuga is a twitch skill one button mobile game.
+As a hatchling, you have to make the first steps towards the incredibly long journey of a turtle. Eat to get stronger and avoid your natural enemies. Tortuga is a twitch skill one button mobile game. Tortuga will be available on the Google Play Store soon.
 
-## Some of the low poly models
+## Play the Game in Web Browser
+
+The game might not work in all browser. Also, not all features are active in the Web-Version. Get the mobile version on Google Play.
+
+It's a one-button game. So just click somewhere or hit a button to keep the small turtle moving.
+
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js"></script>
 <script type="text/javascript">
 $(function(){
-    $('#button').click(function(){ 
+    $('#buttonGame').click(function(){ 
         if(!$('#iframe').length) {
-                $('#iframeHolder').html('<iframe src="tortugaShow.html" width="100%" height="700"></iframe>');
+                $('#iframeHolderGame').html('<iframe src="tortugaGame.html" width="100%" height="700"></iframe>');
         }
     });   
 });
@@ -42,5 +47,30 @@ style="
     padding: 1em;
     border: 0.1em solid #555555;
     cursor: pointer;"
-id="button">Click To Load Simulation</button>
-<div id="iframeHolder"></div>
+id="buttonGame">Click to Play Tortuga</button>
+<div id="iframeHolderGame"></div>
+
+## Some of the Low Poly Models which you see in Trotuga
+
+Press 1,2,3,4 keys to switch between the models faster.
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js"></script>
+<script type="text/javascript">
+$(function(){
+    $('#buttonShow').click(function(){ 
+        if(!$('#iframe').length) {
+                $('#iframeHolderShow').html('<iframe src="tortugaShow.html" width="100%" height="700"></iframe>');
+        }
+    });   
+});
+</script>
+ 
+<button 
+style="
+    border-radius: 1em;
+    background-color: white;
+    padding: 1em;
+    border: 0.1em solid #555555;
+    cursor: pointer;"
+id="buttonShow">Click to Watch Low Poly Models</button>
+<div id="iframeHolderShow"></div>
