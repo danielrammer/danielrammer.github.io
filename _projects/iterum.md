@@ -26,9 +26,9 @@ gallery:
 
 Iterum is a first person singleplayer puzzle game. Inspired by games like Antichamber, it plays with morphing rooms und and unorthodox puzzles.
 
-*UPDATE:* VR Version is now available - utilizing Steam VR
-* - Needs a Gamepad (e.g. X-Box 360 controller)
-* - Only tested with HTC Vive
+UPDATE: *VR Version* is now available - utilizing Steam VR
+** Needs a Gamepad (e.g. X-Box 360 controller)
+** Only tested with HTC Vive
 
 ## Focus and Tasks
 Game design | game logic programming | level design
