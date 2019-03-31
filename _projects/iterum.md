@@ -37,4 +37,4 @@ Game design | game logic programming | level design
 
 ## Download
 * [ITERUM Game (Windows)](ITERUM.zip)
-* [VR Version (Windows)](IterumVr.zip)
+* [VR Version (Windows)](IterumVR.zip)
