@@ -26,6 +26,8 @@ gallery:
 
 Iterum is a first person singleplayer puzzle game. Inspired by games like Antichamber, it plays with morphing rooms and unorthodox puzzles.
 
+[ITERUM is on itch.io!](https://blitzzart.itch.io/iterum)
+
 UPDATE: *VR Version* is now available - utilizing Steam VR
 * \* Input via Gamepad (e.g. X-Box 360 controller) or keyboard
 * \* Only tested with HTC Vive
@@ -33,6 +35,9 @@ UPDATE: *VR Version* is now available - utilizing Steam VR
 ## Focus and Tasks
 Game design | game logic programming | level design
 
-## Download
+## Get it on itch.io
+<iframe frameborder="0" src="https://itch.io/embed/404841?linkback=true&amp;bg_color=f8f9fb&amp;fg_color=222222&amp;link_color=5486ff&amp;border_color=f8f9fb" width="552" height="167"></iframe>
+
+## or download here
 * [ITERUM Game (Windows)](ITERUM.zip)
 * [VR Version (Windows)](IterumVR.zip)
