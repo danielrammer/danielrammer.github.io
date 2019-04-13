@@ -34,8 +34,8 @@ Avoid hostile bullets and lasers AND REACH A NEW HIGHSCORE!"
 ## Focus and Tasks
 Vfx and shader | game logic programming | sound
 
-## Get it on itch.io
+## Get it on itch.io:
 <iframe frameborder="0" src="https://itch.io/embed/404879?linkback=true&amp;bg_color=f8f9fb&amp;fg_color=f5f6f3&amp;link_color=29b939&amp;border_color=f8f9fb" width="552" height="167"></iframe>
 
-## or download here
+## or download here:
 * [Windows Version](ILL_STILL.zip)
