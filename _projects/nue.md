@@ -23,6 +23,8 @@ gallery:
 
 Notwendiges Übel is a game jam game, built in 36 hours and awarded 1st place. It's an endless boss encounter for one to four players fighting together.
 
+[Find it on itch.io](https://blitzzart.itch.io/still-ill)
+
 "Fight against the boss by destroying his “Exo-parts”.
 Only colored “Exo-Parts” will take damage. Your bullets have to have the same color as the part you want to attack.
 To change the color of your bullets pick up other weapons (they spawn randomly).
@@ -32,7 +34,8 @@ Avoid hostile bullets and lasers AND REACH A NEW HIGHSCORE!"
 ## Focus and Tasks
 Vfx and shader | game logic programming | sound
 
-<iframe frameborder="0" src="https://itch.io/embed/404879?bg_color=010101&amp;fg_color=c7c7c7&amp;link_color=29b939&amp;border_color=333333" width="552" height="167"></iframe>
+## Get it on itch.io
+<iframe frameborder="0" src="https://itch.io/embed/404879?linkback=true&amp;bg_color=f8f9fb&amp;fg_color=f5f6f3&amp;link_color=29b939&amp;border_color=f8f9fb" width="552" height="167"></iframe>
 
-## Download here
+## or download here
 * [Windows Version](ILL_STILL.zip)
