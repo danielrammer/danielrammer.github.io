@@ -22,9 +22,12 @@ gallery:
 ---
 
 As a hatchling, you have to make the first steps towards the incredibly long journey of a turtle. Eat to get stronger and avoid your natural enemies. Tortuga is a twitch skill one button mobile game. Tortuga is available on the Google Play Store. 
-[Link to Google Play](https://play.google.com/store/apps/details?id=at.molding.tortuga)
 
-## Play the Game in Web Browser
+[Get Hatchling on Google Play](https://play.google.com/store/apps/details?id=at.molding.tortuga)
+
+[Hatchling is on itch.io](https://blitzzart.itch.io/hatchling)
+
+## Play the alpha version in your Web Browser
 
 The game might not work in all browser. Also, not all features are active in the Web-Version. Get the mobile version on Google Play.
 
