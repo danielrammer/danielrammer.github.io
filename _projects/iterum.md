@@ -35,9 +35,9 @@ UPDATE: *VR Version* is now available - utilizing Steam VR
 ## Focus and Tasks
 Game design | game logic programming | level design
 
-## Get it on itch.io
+## Get it on itch.io:
 <iframe frameborder="0" src="https://itch.io/embed/404841?linkback=true&amp;bg_color=f8f9fb&amp;fg_color=222222&amp;link_color=5486ff&amp;border_color=f8f9fb" width="552" height="167"></iframe>
 
-## or download here
+## or download here:
 * [ITERUM Game (Windows)](ITERUM.zip)
 * [VR Version (Windows)](IterumVR.zip)
