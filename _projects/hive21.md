@@ -59,5 +59,8 @@ Your browser does not support the audio element.
 ## Focus and Tasks
 Game design | sound design | game music | game logic programming | level design
 
+## Get it on itch.io:
+<iframe frameborder="0" src="https://itch.io/embed/412805?border_width=0&amp;bg_color=110d0d&amp;fg_color=e0e0e0&amp;border_color=110d0d" width="550" height="165"></iframe>
+
 ## Links
 [IndieDB Page](http://www.indiedb.com/games/hive21/)
