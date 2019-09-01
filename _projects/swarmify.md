@@ -1,5 +1,5 @@
 ---
-title: Swack
+title: Swarmify
 date: 2018-08-04
 category: 0
 date: 2018-08-04
@@ -10,6 +10,9 @@ gallery:
   - file: "swack-500-air.jpg"
     preview: "swack-500-air-150.jpg"
     description: "Swarm of 500 in air."
+  - video: "r3WMYEVHk84"
+    type: "youtube"
+    preview: "swack-tut-video-150.jpg"
   - file: "swack-400-sequence.gif"
     preview: "swack-400-sequence-150.jpg"
     description: "Swarm of "
@@ -21,7 +24,7 @@ gallery:
     description: "Swarm of "
 ---
 
-Swack is a naive swarm behavior implementation. A quick proof of concept of an idea how a force based swarm simulation could work.
+Swarmify is a naive swarm behavior implementation. A quick proof of concept of an idea how a force based swarm simulation could work.
 
 The WebGL box beneath shows an early stage of the project. You can control the swarm by moving around the attractor and manipulate the camera perspective.
 The frame rate drops you may experience does not occur in the desktop application.
