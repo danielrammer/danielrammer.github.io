@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Daniel Rammer
-email: dnl.rammer@gmail.com
+title: BlitzZart
+email: blitzzartgames@gmail.com
 description: Game development generalist
 #baseurl: "/github.com/redovic" # the subpath of your site, e.g. /blog
 url: "https://blitzzart.github.io" # the base hostname & protocol for your site
