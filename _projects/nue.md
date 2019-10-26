@@ -1,5 +1,5 @@
 ---
-title: Notwendiges Übel
+title: ILL STILL
 date: 2015-12-01
 category: 2
 release: 2015-12-1
@@ -21,7 +21,7 @@ gallery:
     description: "Notwendiges Übel played in a pub."
 ---
 
-Notwendiges Übel is a game jam game, built in 36 hours and awarded 1st place. It's an endless boss encounter for one to four players fighting together.
+ILL STILL a.k.a Notwendiges Übel is a game jam game, built in 36 hours and awarded 1st place. It's an endless boss encounter for one to four players fighting together.
 
 [Find it on itch.io](https://blitzzart.itch.io/still-ill)
 
@@ -38,4 +38,5 @@ Vfx and shader | game logic programming | sound
 <iframe frameborder="0" src="https://itch.io/embed/404879?linkback=true&amp;bg_color=f8f9fb&amp;fg_color=f5f6f3&amp;link_color=29b939&amp;border_color=f8f9fb" width="552" height="167"></iframe>
 
 ## or download here:
-* [Windows Version](ILL_STILL.zip)
+* [Windows Version](ILL_STILL_win.zip)
+* [Mac Version](ILL_STILL_mac.zip)
