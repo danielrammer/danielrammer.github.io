@@ -1,6 +1,6 @@
 ---
 title: Publications
-date: 2013-01-01
+date: 2013-01-10
 category: 3
 start: 2013-01-10
 subpage: false
