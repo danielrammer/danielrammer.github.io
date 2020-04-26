@@ -12,6 +12,7 @@ titleimage: "publications-preview.jpg"
 
 ## Reviewed and Invited Publications
 
+
 W. Hochleitner, D. Sellitsch, D. Rammer, A. Aschauer, E. Mattheiss, G. Regal, M. Tscheligi - *No Need to Stop – Exploring Smartphone Interaction Paradigms While Cycling* - Proceedings of the 16th International Conference on Mobile and Ubiquitous Multimedia (MUM 2017), Stuttgart, Germany, 2017, pp. 11 [[link](https://dl.acm.org/citation.cfm?id=3152871)]
 
 - - -
