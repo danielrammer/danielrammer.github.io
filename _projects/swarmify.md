@@ -27,7 +27,10 @@ gallery:
 Swarmify is a naive swarm behavior implementation. A quick proof of concept of an idea how a force based swarm simulation could work.
 
 The WebGL box beneath shows an early stage of the project. You can control the swarm by moving around the attractor and manipulate the camera perspective.
-The frame rate drops you may experience does not occur in the desktop application.
+The frame rate drops you may experience might not occur in the desktop application.
+
+
+Older version of Swarmify - you can buy the latest version in the [Assetstore](http://u3d.as/1BJw).
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js"></script>
 <script type="text/javascript">
