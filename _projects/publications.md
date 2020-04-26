@@ -6,7 +6,7 @@ start: 2015
 end: 2080
 facts: Smartphone (Android) | Single-Player | Geo-Location
 subpage: false
-titleimage: "gemplay-preview.jpg"
+titleimage: "publications-preview.jpg"
 
 ---
 
