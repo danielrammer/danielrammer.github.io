@@ -1,7 +1,3 @@
-# pie.fh-hagenberg.at
-
-Website for Playful Interactive Environments at <http://pie.fh-hagenberg.at>
-
 ## Notes on the Setup
 
 \_sass and \_js are containing the source files. The css and js folders and their content are only contained in this repository to provide them for gh-pages. These tasks aren't included in the Jekyll build itself which is why setting up a development machine is recommended. See the instructions for Windows and Mac OS X below.
