@@ -2,8 +2,7 @@
 title: Publications
 date: 2013-01-01
 category: 3
-start: 2013
-end: 2080
+start: 2013-01-10
 facts: Smartphone (Android) | Single-Player | Geo-Location
 subpage: false
 titleimage: "publications-preview.jpg"
