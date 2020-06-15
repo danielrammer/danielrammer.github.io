@@ -14,7 +14,7 @@ gallery:
     preview: "car-1-150.jpg"
     description: "Wireframe side view 'BMW 3er like' Car."
   - file: "car2.jpg"
-    preview: "car2-150.jpg"
+    preview: "car-2-150.jpg"
     description: "Shaded wireframe side view 'BMW 3er like' Car."
   - file: "car3.jpg"
     preview: "car-3-150.jpg"

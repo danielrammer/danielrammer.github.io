@@ -7,9 +7,6 @@ facts: 3D Sculpting & Rendering
 subpage: false
 titleimage: "gorilla-preview.jpg"
 gallery:
-  - file: "gorilla-red.jpg"
-    preview: "gorilla-red-150.jpg"
-    description: "Sculpting."
   - file: "gorilla-1.jpg"
     preview: "gorilla-1-150.jpg"
     description: "Sculpting."
@@ -18,5 +15,8 @@ gallery:
     description: "Sculpting."
   - file: "gorilla-3.jpg"
     preview: "gorilla-3-150.jpg"
+    description: "Sculpting."
+  - file: "gorilla-4.jpg"
+    preview: "gorilla-4-150.jpg"
     description: "Sculpting."
 ---
