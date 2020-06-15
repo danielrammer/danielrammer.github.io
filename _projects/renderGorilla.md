@@ -3,7 +3,7 @@ title: Gorilla Sculpting
 date: 2012-05-02
 category: 4
 date: 2012-05-02
-facts: 3D Sculpting
+facts: 3D Sculpting & Rendering
 subpage: false
 titleimage: "gorilla-preview.jpg"
 gallery:

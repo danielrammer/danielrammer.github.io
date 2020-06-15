@@ -1,9 +1,9 @@
 ---
-title: Car Modeling/Rendering
+title: Car Modeling & Rendering
 date: 2012-05-12
 category: 4
 date: 2012-05-12
-facts: Low Poly Modeling and Rendering
+facts: Low Poly Modeling & Rendering
 subpage: false
 titleimage: "car-preview.jpg"
 gallery:
