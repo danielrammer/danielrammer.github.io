@@ -13,3 +13,7 @@
 - id: 3
   label: Research Project
   labelplural: Research Projects
+
+- id: 4
+  label: Other Stuff
+  labelplural: Other Stuff
