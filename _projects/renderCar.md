@@ -1,0 +1,22 @@
+---
+title: Car Modeling/Rendering
+date: 2012-05-12
+category: 4
+date: 2012-05-12
+facts: Long Time Exposure Photograpy
+subpage: false
+titleimage: "car-preview.jpg"
+gallery:
+  - file: "car-red.jpg"
+    preview: "car-red-150.jpg"
+    description: "Rendering of a red 'BMW 3er like' Car."
+  - file: "car-1.jpg"
+    preview: "car-1-150.jpg"
+    description: "Wireframe side view 'BMW 3er like' Car."
+  - file: "car-2.jpg"
+    preview: "car-2-150.jpg"
+    description: "Shaded wireframe side view 'BMW 3er like' Car."
+  - file: "car-3.jpg"
+    preview: "car-3-150.jpg"
+    description: "Shaded side view 'BMW 3er like' Car."
+---
