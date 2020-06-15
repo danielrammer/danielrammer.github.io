@@ -3,7 +3,7 @@ title: Car Modeling/Rendering
 date: 2012-05-12
 category: 4
 date: 2012-05-12
-facts: Long Time Exposure Photograpy
+facts: Low Poly Modeling and Rendering
 subpage: false
 titleimage: "car-preview.jpg"
 gallery:
