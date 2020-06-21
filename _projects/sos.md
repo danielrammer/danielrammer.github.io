@@ -23,5 +23,5 @@ gallery:
 
 A music game in which you play the kalimba to create galaxies.
 
-## or download here:
+## Download Sound of Space
 * [Windows Version](SoundOfSpace.zip)
