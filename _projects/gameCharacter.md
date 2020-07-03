@@ -1,6 +1,6 @@
 ---
 title: Game Character
-date: 2012-05-02
+date: 2013-05-02
 category: 4
 date: 2013-05-02
 facts: 3D Modeling, Sculpting & Rigging
