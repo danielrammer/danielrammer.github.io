@@ -16,7 +16,7 @@ The idea of Proxi is to increase the degree of tele-presence in video conferenci
 
 When the idea was born and I started the project, I could not find existing equivalents online. Well now there are some well done Products out there already. This is why, Proxi might remain in its current state.
 
-Proxi is running on a server with a low bandwith internet connection - only for testing purpose.
+Proxi is currently running on a server with a low bandwith internet connection - only for testing purpose.
 It is based on [jitsi](https://meet.jit.si/) - which is a great tool already and an awesome open source project.
 
 {% comment %}
