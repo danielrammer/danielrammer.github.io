@@ -28,7 +28,7 @@
     "eslint-plugin-import": "^2.1.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.5.1",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-buffer": "0.0.2",
     "gulp-cached": "^1.1.0",
     "gulp-concat": "^2.6.0",
