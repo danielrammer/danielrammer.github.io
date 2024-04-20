@@ -14,10 +14,14 @@ titleimage: "publications-preview.jpg"
 <br>
 
 Reiterer B.,Brandstötter M., Mara M., Rammer D., Haring R., Heiml M., Meyer K., Hoffmann T., Weyrer W., Hofbaur M. *An Immersive Game Projection Setup for Studies on Collaboration with a Real Robot* Austrian Robotics Workshop [[link](https://www.joanneum.at/robotics/publikationen/detail/an-immersive-game-projection-setup-for-studies-on-collaboration-with-a-real-robot)]
+<br>
+<br>
 
 - - -
 
 Leichtmann, B., Meneweger, T., Busch, C., Reiterer, B., Meyer, K., Rammer, D., … Mara, M. (2024). *Teaming with a Robot in Mixed Reality: Dynamics of Trust, Self-Efficacy, and Mental Models Affected by Information Richness.* International Journal of Human–Computer Interaction, 1–18. [[link](https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2331878)]
+<br>
+<br>
 
 - - -
 
