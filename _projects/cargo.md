@@ -7,12 +7,12 @@ facts: Smartphone (Android) | PC | VR | Co-Located interactions | Laser Tracking
 subpage: false
 titleimage: "cargo-preview.jpg"
 gallery:
-  - video: "aXNJgO7zsWc"
-    type: "youtube"
-    preview: "cargo-video-150.jpg"
   - file: "cargo-3players.jpg"
     preview: "cargo-3players-150.jpg"
     description: "Two VR players and a spectator cooperating."
+  - video: "aXNJgO7zsWc"
+    type: "youtube"
+    preview: "cargo-video-150.jpg"
   - file: "cargo-somePlayers.jpg"
     preview: "cargo-somePlayers.jpg"
     description: "One VR players and four spectators cooperating."
