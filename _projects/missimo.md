@@ -18,7 +18,7 @@ gallery:
 missimo is a project for children aged eight to ten that offers many experiments on topics such as AI, robotics, and programming. The special appeal: missimo visits primary schools in Austria’s rural areas by truck.
 
 ## Responsibilities
-Software Lead | Software Architecture
+Software Lead | Software Architecture <br>
 Game logic programming | network programming | game design
 
 ## Project Partner
