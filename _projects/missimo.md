@@ -1,12 +1,15 @@
 ---
-title: missimo: Deine Mission Morgen
+title: missimo Deine Mission Morgen
 date: 2014-01-01
 category: 0
-release: 2024
+release: 2024-01-01
 facts: Mobile STEAM Learning for Kids
 subpage: false
 titleimage: "01-missimo-linz.jpg"
 gallery:
+  - file: "01-missimo-linz.jpg"
+    preview: "01-missimo-linz-150.jpg"
+    description: "Missimo standing on Hauptplatz Linz (2024)."
   - file: "01-missimo-linz.jpg"
     preview: "01-missimo-linz-150.jpg"
     description: "Missimo standing on Hauptplatz Linz (2024)."
@@ -22,5 +25,5 @@ Game logic programming | network programming | game design
 Kaiserschild Stiftung, INSEQ
 
 ## Web
-[Official Page](https://missimo.at/)
+[Official Website](https://missimo.at/)
 [Project Page](https://ars.electronica.art/futurelab/en/projects-missimo/)
