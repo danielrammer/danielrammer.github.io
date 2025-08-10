@@ -5,11 +5,11 @@ category: 0
 release: 2024
 facts: Mobile STEAM Learning for Kids
 subpage: false
-titleimage: "cargo-preview.jpg"
+titleimage: "01-missimo-linz.jpg"
 gallery:
-  - file: "cargo-3players.jpg"
-    preview: "cargo-3players-150.jpg"
-    description: "Two VR players and a spectator cooperating."
+  - file: "01-missimo-linz.jpg"
+    preview: "01-missimo-linz-150.jpg"
+    description: "Missimo standing on Hauptplatz Linz (2024)."
 ---
 
 missimo is a project for children aged eight to ten that offers many experiments on topics such as AI, robotics, and programming. The special appeal: missimo visits primary schools in Austria’s rural areas by truck.
