@@ -42,6 +42,7 @@ M. Lankes, W. Hochleitner, D. Rammer, M. Busch, E. Mattheiss, M. Tscheligi - CHI
 
 - - -
 ## Preprint
+<br>
 
 *Breaking the mould of Social Mixed Reality -- State-of-the-Art and Glossary*
 <br>
