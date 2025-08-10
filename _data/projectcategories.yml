@@ -1,10 +1,10 @@
 - id: 0
   label: Professional Project
-  labelplural: Current & Recent Projects
+  labelplural: Professional Project
   
 - id: 1
   label: Side Project
-  labelplural: Current & Recent Projects
+  labelplural: Side Project
 
 - id: 2
   label: University Project
