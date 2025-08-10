@@ -1,19 +1,23 @@
 - id: 0
-  label: Recent Project
+  label: Professional Project
+  labelplural: Current & Recent Projects
+  
+- id: 1
+  label: Side Project
   labelplural: Current & Recent Projects
 
-- id: 1
+- id: 2
   label: University Project
   labelplural: University Projects
 
-- id: 2
+- id: 3
   label: Game Jam Game
   labelplural: Game Jam Games
 
-- id: 3
+- id: 4
   label: Research Project
   labelplural: Research Projects
 
-- id: 4
+- id: 5
   label: Other Stuff
   labelplural: Other Stuff
