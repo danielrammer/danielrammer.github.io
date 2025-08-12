@@ -7,12 +7,12 @@ facts: Various Robotics/Drone Swarm Research and Dev.
 subpage: false
 titleimage: "00-swarm-linz.jpg"
 gallery:
-  - video: "YZwEkm_zBf4"
-    type: "youtube"
-    preview: "05-swarm-tokyo2-150.jpg"
   - file: "00-swarm-linz.jpg"
     preview: "00-swarm-linz-150.jpg"
     description: "Stream of Hope testing in Linz."
+  - video: "YZwEkm_zBf4"
+    type: "youtube"
+    preview: "05-swarm-tokyo2-150.jpg"
   - file: "01-swarm-linz.jpg"
     preview: "01-swarm-linz-150.jpg"
     description: "Stream of Hope testing in Linz."
@@ -37,6 +37,6 @@ NTT
 
 ## Web
 [SwarmOS](https://ars.electronica.art/futurelab/de/projects-swarm-os/)<br>
-[Stream of Hope](https://ars.electronica.art/futurelab/de/projects-stream-of-hope/)<br>
+[Stream of Hope](https://ars.electronica.art/futurelab/de/projects-stream-of-hope/)<br> 
 [Space Ink](https://ars.electronica.art/futurelab/de/projects-space-ink/)
 
