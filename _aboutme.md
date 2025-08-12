@@ -1,7 +1,8 @@
-Find some of my projects on 
-this website and contact me if you have any questions or ideas.
+Hi, I'm Daniel. I consider myself as a generalist with broad skills in software development and media design. Enjoying working with game engines, 3d modeling tools, producing sound and music and working with all kinds of Adobe products :) .
 
-After quite some working experience, most of the time I spent in robotics, I decided to go to University with 25 years of age. During that training I, unexpectedly, developed a strong interest in game development and interactive technologies. This lead to lots of game side project and to my job at the Ars Electronica Futurelab. Meanwhile I could collect lots of experience in various developer and lead roles within crazy divers research, development and arts projects. 
+You can find some of my projects on this website and contact me if you have any questions or ideas.
+
+After several years working primarily in robotics, I decided at 25 to pursue a university degree. During my studies, I unexpectedly developed a strong interest in game development and interactive technologies. This led to numerous game-related side projects and eventually to my role at the Ars Electronica Futurelab. Over the years, I’ve gained extensive experience in various developer and leadership roles, contributing to diverse and often unconventional research, development, and arts projects.
 
 ## Education
 * 2015 - 2017: University of Applied Sciences Hagenberg - [Interactive Media](https://www.fh-ooe.at/en/hagenberg-campus/studiengaenge/master/interactive-media/) MSc
