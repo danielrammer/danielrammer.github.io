@@ -1,5 +1,7 @@
-Find some of my [projects](https://danielrammer.github.io/projects/) on this website and 
-Simply [contact](https://danielrammer.github.io/contact/) me if you have any questions.
+Find some of my [projects](https://danielrammer.github.io/projects/) on 
+this website and [contact](https://danielrammer.github.io/contact/) me if you have any questions.
+
+
 
 After quite some working experience, most of the time I spent in robotics, I decided to go to University with 25 years of age. During that training I, unexpectedly, developed a strong interest in game development and interactive technologies. This lead to various side project and to my job at the Ars Electronica Futurelab.
 
