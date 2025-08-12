@@ -7,21 +7,26 @@ facts: Mobile STEAM Learning for Kids
 subpage: false
 titleimage: "01-missimo-linz.jpg"
 gallery:
-  - file: "01-missimo-linz.jpg"
-    preview: "01-missimo-linz-150.jpg"
+  - file: "03-missimo-linz.jpg"
+    preview: "03-missimo-linz-150.jpg"
+    description: "Missimo standing on Hauptplatz Linz (2024)."
+  - file: "04-missimo-magic.jpg"
+    preview: "04-missimo-magic-150.jpg"
     description: "Missimo standing on Hauptplatz Linz (2024)."
   - file: "01-missimo-linz.jpg"
     preview: "01-missimo-linz-150.jpg"
     description: "Missimo standing on Hauptplatz Linz (2024)."
 ---
 
-missimo is a project for children aged eight to ten that offers many experiments on topics such as AI, robotics, and programming. The special appeal: missimo visits primary schools in Austria’s rural areas by truck.
+missimo for children aged eight to ten that offers many experiments on topics such as AI, robotics, and programming. missimo visits primary schools in Austria’s rural areas by truck.
+
+Visit the websites to get a clearer overview. Maybe you can catch toe truck when it is near you hometown.
 
 ## Responsibilities
 Software Lead | Software Architecture <br>
-Game logic programming | network programming | game design
+Software development | network programming | game design
 
-## Project Partner
+## Project Partners
 Kaiserschild Stiftung, INSEQ
 
 ## Web
