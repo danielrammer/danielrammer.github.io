@@ -30,5 +30,5 @@ Software development | network programming | game design
 Kaiserschild Stiftung, INSEQ
 
 ## Web
-[Official Website](https://missimo.at/)
+[Official Website](https://missimo.at/)<br>
 [Project Page](https://ars.electronica.art/futurelab/en/projects-missimo/)
