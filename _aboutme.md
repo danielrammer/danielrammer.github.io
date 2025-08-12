@@ -24,17 +24,17 @@ ___
 ### +++++++++++++++++++++
 
 {:.skillTxt}
-C# \| Unity \| Game Design \| Photoshop
+C# \| Unity Engine \| Game Design \| Photoshop
 
 ### +++++++++++++
 
 {:.skillTxt}
-Blender \| Java  \| Maya \| Illustrator \| After Effects \| Premiere
+Unreal Engine \| Blender \| Ableton Live \| C++ \| Python \| Maya \| Illustrator \| In Design \| After Effects \| Premiere
 
 ### ++++++++
 
 {:.skillTxt}
-C++ \| Python \| JavaScript
+\| JavaScript \| Java 
 
 {:.subtleLine}
 ___ 
