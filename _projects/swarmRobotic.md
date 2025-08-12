@@ -5,7 +5,7 @@ category: 5
 release: 2019-01-01
 facts: Various Robotics/Drone Swarm Research and Dev.
 subpage: false
-titleimage: "01-missimo-linz.jpg"
+titleimage: "00-swarm-linz.jpg"
 gallery:
   - file: "00-swarm-linz.jpg"
     preview: "00-swarm-linz-150.jpg"
