@@ -1,6 +1,6 @@
 ---
 title: missimo - Deine Mission Morgen
-date: 2014-01-01
+date: 2024-01-01
 category: 5
 release: 2024-01-01
 facts: Mobile STEAM Learning for Kids
