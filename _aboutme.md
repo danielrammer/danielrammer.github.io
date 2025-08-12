@@ -1,5 +1,5 @@
-Find some of my [projects]({{site.baseurl}}/projects/) on this website and 
-Simply [contact]({{site.baseurl}}/contact/) me if you have any questions.
+Find some of my [projects](https://danielrammer.github.io/projects/) on this website and 
+Simply [contact](https://danielrammer.github.io/contact/) me if you have any questions.
 
 ## Education
 * 2015 - 2017: University of Applied Sciences Hagenberg - [Interactive Media](https://www.fh-ooe.at/en/hagenberg-campus/studiengaenge/master/interactive-media/) MSc
