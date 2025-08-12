@@ -36,7 +36,7 @@ Software development | Research
 NTT
 
 ## Web
-[SwarmOS](https://ars.electronica.art/futurelab/de/projects-swarm-os/)
-[Stream of Hope](https://ars.electronica.art/futurelab/de/projects-stream-of-hope/)
+[SwarmOS](https://ars.electronica.art/futurelab/de/projects-swarm-os/)<br>
+[Stream of Hope](https://ars.electronica.art/futurelab/de/projects-stream-of-hope/)<br>
 [Space Ink](https://ars.electronica.art/futurelab/de/projects-space-ink/)
 
