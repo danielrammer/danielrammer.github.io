@@ -16,8 +16,8 @@ gallery:
   - file: "01-desy.jpg"
     preview: "01-desy-150.jpg"
     description: "Deep Sync presentation in the Deep Space 8K."
-  - file: "03-desy.jpg"
-    preview: "03-desy-150.jpg"
+  - file: "02-desy.jpg"
+    preview: "02-desy-150.jpg"
     description: "Deep Sync presentation in the Deep Space 8K."
 ---
 
