@@ -1,6 +1,5 @@
-Hi, I'm Daniel. I consider myself as a generalist with broad skills in software development and media design. Enjoying working with game engines, 3d modeling tools, producing sound and music and working with all kinds of Adobe products :) .
-
-You can find some of my projects on this website and contact me if you have any questions or ideas.
+Hi, I’m Daniel — a generalist with broad skills in software development and media design. I enjoy working with game engines, 3D modeling tools, producing sound and music, and and working with all kinds of Adobe products :).
+On this site, you’ll find some of my projects, and you’re welcome to reach out if you have questions or ideas to share.
 
 After several years working primarily in robotics, I decided at 25 to pursue a university degree. During my studies, I unexpectedly developed a strong interest in game development and interactive technologies. This led to numerous game-related side projects and eventually to my role at the Ars Electronica Futurelab. Over the years, I’ve gained extensive experience in various developer and leadership roles, contributing to diverse and often unconventional research, development, and arts projects.
 
