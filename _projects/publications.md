@@ -10,8 +10,8 @@ titleimage: "publications-preview.jpg"
 
 <br>
 
-ORCiD: [[link](https://orcid.org/0000-0001-9363-1108)]<br>
-ResearchGate: [[link](https://www.researchgate.net/profile/Daniel-Rammer)]
+ORCiD: [[orcid.org/0000-0001-9363-1108](https://orcid.org/0000-0001-9363-1108)]<br>
+ResearchGate: [[www.researchgate.net/profile/Daniel-Rammer](https://www.researchgate.net/profile/Daniel-Rammer)]
 
 
 ## Reviewed and Invited Publications
