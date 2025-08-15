@@ -20,8 +20,6 @@ ___
 ___
 ## Skills and Tools ##
 
-### +++++++++++++++++++++
-
 ### Tools
 {:.skillTxt}
 Unity Engine \| Blender \| Unreal Engine \| Photoshop \| Ableton Live \| Maya  \| In Design \| Illustrator \| After Effects \| Premiere Pro
