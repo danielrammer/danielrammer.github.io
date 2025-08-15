@@ -3,7 +3,7 @@ title: SHARESPACE
 date: 2025-01-01
 category: 5
 release: 2025-01-01
-facts: Various Robotics/Drone Swarm Research and Dev.
+facts:  Socially engaging Hybrid Spaces - XR technology.
 subpage: false
 titleimage: "play1.jpg"
 gallery:
