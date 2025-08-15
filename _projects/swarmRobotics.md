@@ -25,6 +25,9 @@ gallery:
   - file: "04-swarm-old.jpg"
     preview: "04-swarm-old-150.jpg"
     description: "Stream of Hope testing in Linz."
+  - file: "swarm1.jpg"
+    preview: "swarm1-150.jpg"
+    description: "Space Ink testing in Linz."
 ---
 
 Most of my early projects in the Ars Electronica Futurelab where about swarm robotics and drone performances. With [SwarmOS](https://ars.electronica.art/futurelab/de/projects-swarm-os/) we build an infrastructure which allowed to operate diverse drone/robot swarms. Combining UAVs and UGVs as well as custom build vehicles and of the shelf drones. We worked on a robot swarm performance, [Stream of Hope](https://ars.electronica.art/futurelab/de/projects-stream-of-hope/), for Tokyo 2020, realized realtime drone light painting and more.
