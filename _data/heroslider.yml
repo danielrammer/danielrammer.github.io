@@ -26,9 +26,9 @@
     label: "Details"
     link:  "/projects/iterum/"
 
-- file: "projects/arLock/arlock-blurred.jpg"
-  title: "ARLock"
-  subtitle: "Moblie AR room escape puzzle."
+- file: "projects/swarmRobotics/swarm-blur.jpg"
+  title: "Swarm Robotics"
+  subtitle: "Drone and Robot Swarm Projects."
   more:
     label: "Details"
-    link:  "/projects/arLock/"
+    link:  "/projects/swarmRobotics/"
