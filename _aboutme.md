@@ -18,22 +18,23 @@ ___
 
 {:.subtleLine}
 ___
-## Skills ##
+## Skills and Tools ##
 
 ### +++++++++++++++++++++
 
+### Tools
 {:.skillTxt}
-C# \| Unity Engine \| Game Design \| Photoshop
+Unity Engine \| Blender \| Unreal Engine \| Photoshop \| Ableton Live \| Maya  \| In Design \| Illustrator \| After Effects \| Premiere Pro
 
-### +++++++++++++
-
+### Programming
 {:.skillTxt}
-Unreal Engine \| Blender \| Ableton Live \| C++ \| Python \| Maya \| Illustrator \| In Design \| After Effects \| Premiere
+C# \| C++ \| Python \| JavaScript \| Java \| ...
 
-### ++++++++
-
+### Skills and Experience:
 {:.skillTxt}
-\| JavaScript \| Java 
+Software Development \| Team Lead \| Project management \| Game Design \| 3D Modeling and Animation \| Sound Design and Production \| Video Editing 
+
+
 
 {:.subtleLine}
 ___ 
@@ -41,4 +42,4 @@ ___
 German | English
 
 ## Hobbies
-Traveling | Hiking | History
+Fitness | Traveling | Hiking | History
