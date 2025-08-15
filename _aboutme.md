@@ -18,7 +18,8 @@ ___
 
 {:.subtleLine}
 ___
-## Skills and Tools ##
+## Skills and Tools
+In both my professional roles and personal projects, I continuously explore new tools and technologies — here’s an excerpt.
 
 ### Tools
 {:.skillTxt}
@@ -28,14 +29,6 @@ Unity Engine \| Blender \| Unreal Engine \| Photoshop \| Ableton Live \| Maya  \
 {:.skillTxt}
 C# \| C++ \| Python \| JavaScript \| Java \| ...
 
-### Skills and Experience:
+### Skills and Experience
 {:.skillTxt}
-Software Development \| Team Lead \| Project management \| Game Design \| 3D Modeling and Animation \| Sound Design and Production \| Video Editing 
-
-{:.subtleLine}
-___ 
-## Languages
-German | English
-
-## Hobbies
-Fitness | Traveling | Hiking | History
+Software Development \| Team Lead \| Project management \| Game Design \| 3D Modeling and Animation \| Sound Design and Production \| Video Editing
