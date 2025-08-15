@@ -25,8 +25,8 @@ gallery:
   - file: "04-swarm-old.jpg"
     preview: "04-swarm-old-150.jpg"
     description: "Stream of Hope testing in Linz."
-  - file: "swarm1.jpg"
-    preview: "swarm1-150.jpg"
+  - file: "space1.jpg"
+    preview: "space1-150.jpg"
     description: "Space Ink testing in Linz."
 ---
 
