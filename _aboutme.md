@@ -34,8 +34,6 @@ C# \| C++ \| Python \| JavaScript \| Java \| ...
 {:.skillTxt}
 Software Development \| Team Lead \| Project management \| Game Design \| 3D Modeling and Animation \| Sound Design and Production \| Video Editing 
 
-
-
 {:.subtleLine}
 ___ 
 ## Languages
