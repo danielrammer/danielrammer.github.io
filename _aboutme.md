@@ -31,4 +31,4 @@ C# \| C++ \| Python \| JavaScript \| Java \| ...
 
 ### Skills and Experience
 {:.skillTxt}
-Software Development \| Team Lead \| Project management \| Game Design \| 3D Modeling and Animation \| Sound Design and Production \| Video Editing
+Software Development \| Team Lead \| Project Management \| Game Design \| 3D Modeling and Animation \| Sound Design and Production \| Video Editing
