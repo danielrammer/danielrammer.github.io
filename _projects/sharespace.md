@@ -29,8 +29,8 @@ SHARESPACE is a European R&D consortium made up of 14 partners, among them the A
 ## Responsibilities
 Technical Lead | Research | Software development
 
-## Project Partner
-Funded by European Union’s Horizon Europe research and innovation programme
+## Funding
+European Union’s - Horizon Europe program
 
 ## Web
 [SHARESPACE Website](https://sharespace.eu/)<br>
