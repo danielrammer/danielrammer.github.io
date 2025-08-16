@@ -18,9 +18,9 @@ gallery:
     description: "Missimo standing on Hauptplatz Linz (2024)."
 ---
 
-missimo for children aged eight to ten that offers many experiments on topics such as AI, robotics, and programming. missimo visits primary schools in Austria’s rural areas by truck.
+missimo is for children aged eight to ten that offers many experiments on topics such as AI, robotics, and programming. missimo visits primary schools in Austria’s rural areas by truck.
 
-Visit the websites to get a clearer overview. Maybe you can catch toe truck when it is near you hometown.
+Visit the websites to get a clearer overview. Maybe you can catch the truck when it is near you hometown.
 
 ## Responsibilities
 Software Lead | Software Architecture <br>
