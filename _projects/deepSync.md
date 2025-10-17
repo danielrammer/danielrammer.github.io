@@ -1,5 +1,5 @@
 ---
-title: Deep Sync
+title: Deep Sync | 2023
 date: 2023-01-01
 category: 5
 release: 2023-07-01

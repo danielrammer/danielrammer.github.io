@@ -1,5 +1,5 @@
 ---
-title: Converge 2
+title: Converge 2 | 2025
 date: 2025-09-01
 category: 5
 release: 2025-09-01

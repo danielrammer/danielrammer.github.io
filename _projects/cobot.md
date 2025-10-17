@@ -1,5 +1,5 @@
 ---
-title: CoBot Studio
+title: CoBot Studio | 2022
 date: 2022-01-01
 category: 5
 release: 2022-01-01
