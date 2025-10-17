@@ -5,7 +5,7 @@ category: 5
 release: 2025-09-01
 facts:  A shared hybrid performance.
 subpage: false
-titleimage: "converge2-01-150.jpg"
+titleimage: "converge2-01.jpg"
 gallery:
   - file: "converge2-01.jpg"
     preview: "converge2-01-150.jpg"
