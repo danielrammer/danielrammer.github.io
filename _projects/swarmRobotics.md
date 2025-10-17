@@ -1,5 +1,5 @@
 ---
-title: Swarm Robotics
+title: Swarm Robotics | 2019 - 2022
 date: 2019-01-01
 category: 5
 release: 2019-01-01

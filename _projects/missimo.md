@@ -1,5 +1,5 @@
 ---
-title: missimo - Deine Mission Morgen
+title: missimo | 2022
 date: 2024-01-01
 category: 5
 release: 2024-01-01
@@ -18,7 +18,7 @@ gallery:
     description: "Missimo standing on Hauptplatz Linz (2024)."
 ---
 
-missimo is for children aged eight to ten that offers many experiments on topics such as AI, robotics, and programming. missimo visits primary schools in Austria’s rural areas by truck.
+**missimo - Deine Mission Morgen** is for children aged eight to ten that offers many experiments on topics such as AI, robotics, and programming. missimo visits primary schools in Austria’s rural areas by truck.
 
 Visit the websites to get a clearer overview. Maybe you can catch the truck when it is near you hometown.
 
