@@ -1,5 +1,5 @@
 ---
-title: missimo | 2024
+title: mozXR | 2025
 date: 2025-01-01
 category: 5
 release: 2025-01-01
@@ -10,9 +10,6 @@ gallery:
   - file: "01-mozXR.jpg"
     preview: "01-mozXR-150.jpg"
     description: "Concept Rendering of the XR-Lab in Salzburg"
-  - file: "04-missimo-magic.jpg"
-    preview: "04-missimo-magic-150.jpg"
-    description: "Missimo standing on Hauptplatz Linz (2024)."
 ---
 
 **mozXR** is an upcoming open-source framework (OSF) that aims to ease the development of projects for the X-Reality-Lab at Mozarteum University and other projection spaces—including Deep Space 8K. mozXR not only ensures that the technologies installed in the X-Reality-Lab, such as pharus, OptiTrack, and stereoscopic 3D, are as user-friendly as possible. It is designed to minimize the technical hurdles for various scenarios in which multiple screens or projections are used. Creatives and researchers can focus on their actual work instead of struggling with challenging technical difficulties.
