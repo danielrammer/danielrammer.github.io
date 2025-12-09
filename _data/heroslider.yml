@@ -1,9 +1,16 @@
-- file: "projects/iterum/iterum-extremeblurred.jpg"
-  title: "Daniel's"
-  subtitle: "Happy little portfolio site."
+- file: "projects/swarmRobotics/swarm-blur.jpg"
+  title: "Swarm Robotics"
+  subtitle: "Drone and Robot Swarm Projects."
   more:
-    label: "Contact"
-    link:  "/contact/"
+    label: "Details"
+    link:  "/projects/swarmRobotics/"
+
+- file: "projects/mozXr/01-mozXR-blurred.jpg"
+  title: "mozXR"
+  subtitle: "Software Framework for XR Projection Rooms"
+  more:
+    label: "Details"
+    link:  "/projects/mozXr/"
 
 - file: "projects/cargo/cargo-3players.jpg"
   title: "CARGO"
@@ -11,13 +18,13 @@
   more:
     label: "Details"
     link:  "/projects/cargo/"
-
-- file: "projects/arguenauts/arguenauts-blurred.jpg"
-  title: "Arguenauts"
-  subtitle: "Local four player brawler."
+    
+- file: "projects/iterum/iterum-extremeblurred.jpg"
+  title: "Daniel's"
+  subtitle: "Happy little portfolio site."
   more:
-    label: "Details"
-    link:  "/projects/arguenauts/"
+    label: "Contact"
+    link:  "/contact/"
 
 - file: "projects/iterum/iterum-blurred.jpg"
   title: "Iterum"
@@ -26,9 +33,3 @@
     label: "Details"
     link:  "/projects/iterum/"
 
-- file: "projects/swarmRobotics/swarm-blur.jpg"
-  title: "Swarm Robotics"
-  subtitle: "Drone and Robot Swarm Projects."
-  more:
-    label: "Details"
-    link:  "/projects/swarmRobotics/"
