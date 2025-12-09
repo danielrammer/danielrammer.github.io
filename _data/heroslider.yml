@@ -1,3 +1,10 @@
+- file: "projects/iterum/iterum-extremeblurred.jpg"
+  title: "Daniel's"
+  subtitle: "Happy little portfolio site."
+  more:
+    label: "Contact"
+    link:  "/contact/"
+
 - file: "projects/swarmRobotics/swarm-blur.jpg"
   title: "Swarm Robotics"
   subtitle: "Drone and Robot Swarm Projects."
@@ -18,13 +25,6 @@
   more:
     label: "Details"
     link:  "/projects/cargo/"
-    
-- file: "projects/iterum/iterum-extremeblurred.jpg"
-  title: "Daniel's"
-  subtitle: "Happy little portfolio site."
-  more:
-    label: "Contact"
-    link:  "/contact/"
 
 - file: "projects/iterum/iterum-blurred.jpg"
   title: "Iterum"
