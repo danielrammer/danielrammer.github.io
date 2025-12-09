@@ -1,6 +1,6 @@
 ---
 title: mozXR | 2025
-date: 2025-02-01
+date: 2025-10-01
 category: 5
 release: 2026-06-01
 facts: Software Framework for XR Projection Rooms
