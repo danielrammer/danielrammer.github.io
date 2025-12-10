@@ -1,7 +1,9 @@
+Hi, I’m Daniel, a versatile software and media-development professional with broad experience in robotics, and interactive technologies. After several years working primarily in robotics, I chose to pursue a university degree at 25, where I (rather unexpectedly) developed a strong interest in game development and interactive systems. This interest led to numerous side and student projects and ultimately opened the door to my work at the Ars Electronica Futurelab.
 
-Hi, I’m Daniel — a generalist with broad skills in software development and media design.
+Since 2018 I'm working at the Futurelab in a series of developer and leadership roles. As Lead Developer and Researcher, I worked on national and international XR projects, led software architecture and development for a educational initiative, and contributed to R&D in human–machine collaboration, swarm robotics, robotics, and extended reality. My responsibilities also included project conception, hardware planning, and close collaboration with partners from research, the arts, science, and industry. I delivered workshops, presentations, and demonstrations, including at the annual Ars Electronica Festival.
 
-After several years working primarily in robotics, I decided at 25 to pursue a university degree. During my studies, I unexpectedly developed a strong interest in game development and interactive technologies. This led to numerous game-related side projects and eventually to my role at the Ars Electronica Futurelab. Over the years, I’ve gained extensive experience in various developer and leadership roles, contributing to diverse and often unconventional research, development, and arts projects.
+Across these experiences, I have built a reputation for technical leadership, interdisciplinary thinking, and the ability to drive unconventional, high-impact projects from concept to completion.
+
 
 ## Education
 * 2015 - 2017: University of Applied Sciences Hagenberg - [Interactive Media](https://www.fh-ooe.at/en/hagenberg-campus/studiengaenge/master/interactive-media/) MSc
@@ -21,6 +23,10 @@ ___
 ## Skills and Tools
 In both my professional roles and personal projects, I continuously explore new tools and technologies — here’s an excerpt.
 
+### Skills and Experience
+{:.skillTxt}
+Software Development \| Team Lead \| Project Management \| Game Design \| 3D Modeling and Animation \| Sound Design and Production \| Video Editing
+
 ### Tools
 {:.skillTxt}
 Unity Engine \| Blender \| Unreal Engine \| Photoshop \| Ableton Live \| Maya  \| In Design \| Illustrator \| After Effects \| Premiere Pro
@@ -28,7 +34,3 @@ Unity Engine \| Blender \| Unreal Engine \| Photoshop \| Ableton Live \| Maya  \
 ### Programming
 {:.skillTxt}
 C# \| C++ \| Python \| JavaScript \| Java \| ...
-
-### Skills and Experience
-{:.skillTxt}
-Software Development \| Team Lead \| Project Management \| Game Design \| 3D Modeling and Animation \| Sound Design and Production \| Video Editing
