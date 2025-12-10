@@ -1,5 +1,5 @@
 ---
-title: Tortuga
+title: Hatchling
 date: 2018-07-04
 category: 0
 date: 2018-07-04
@@ -21,7 +21,10 @@ gallery:
     description: "Online hight-score."
 ---
 
-As a hatchling, you have to make the first steps towards the incredibly long journey of a turtle. Eat to get stronger and avoid your natural enemies. Tortuga is a twitch skill one button mobile game. Tortuga is available on the Google Play Store. 
+As a Hatchling, you have to make the first steps towards the incredibly long journey of a turtle. Eat to get stronger and avoid your natural enemies. Hatchling is a twitch skill one button mobile game. Tortuga is available on the Google Play Store. 
+
+
+[Download the APK here](Hatchling-v49.apk)
 
 [Get Hatchling on Google Play](https://play.google.com/store/apps/details?id=at.molding.tortuga)
 
@@ -51,7 +54,7 @@ style="
     padding: 1em;
     border: 0.1em solid #555555;
     cursor: pointer;"
-id="buttonGame">Click to Play Tortuga</button>
+id="buttonGame">Click to Play Hatchling/Tortuga</button>
 <div id="iframeHolderGame"></div>
 
 ## Some of the Low Poly Models which you see in Trotuga
