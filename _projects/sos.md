@@ -21,7 +21,7 @@ gallery:
     description: "Sound of Space - controls."
 ---
 
-A music game in which you play the kalimba to create galaxies.
+A music game in which you play the kalimba to create galaxies. It's the very first game I was working on together with 3 fellow students. You need the Java Runtime Environment installed to run it.
 
 ## Sound of Space for Windows and Mac:
 * [Download Sound of Space](SoundOfSpace.zip)
