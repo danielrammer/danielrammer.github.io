@@ -25,16 +25,24 @@ gallery:
 ---
 
 SHARESPACE is a European R&D consortium made up of 14 partners, among them the Ars Electronica Futurelab. Spanning three years, the research project runs from January 2023 to December 2025. Several artworks created for Deep Space 8K will be presented at the Ars Electronica Festivals 2024 and 2025. Some created by Futurelab researchers and two by collaborating artist teams selected through open calls.
-  <iframe
-    width="560"
-    height="315"
-    src="https://www.youtube.com/embed/MXm5VLGloL8"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
 
+## *falcon heavy
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/MXm5VLGloL8"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+## Converge 2
+Converge 2 is the continuation of 2024 Converge performance. It was designed and developed by Patrick Berger as part of the SHARESPACE project.
+Participants within the Deep Space 8K are collaborating with an avatar which is controlled by remotely by a performer.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZvFB1aCo0rc?si=mRcfa8MvUpcKzVkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Project Website](https://ars.electronica.art/panic/en/view/converge-2-23038ddb450c813dbf73ea0737710e6c/)<br>
 
 ## Responsibilities
 Technical Lead | Research | Software development
@@ -43,6 +51,6 @@ Technical Lead | Research | Software development
 European Union’s - Horizon Europe program
 
 ## Web
+[Photos 2025](https://photos.ars.electronica.art/index.php?/search/psk-20251007-pJ0UP9QrF7&display=square)<br>
 [SHARESPACE Website](https://sharespace.eu/)<br>
-
 
