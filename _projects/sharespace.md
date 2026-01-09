@@ -27,8 +27,8 @@ gallery:
 SHARESPACE is a European R&D consortium made up of 14 partners, among them the Ars Electronica Futurelab. Spanning three years, the research project runs from January 2023 to December 2025. Several artworks created for [Deep Space 8K](https://ars.electronica.art/futurelab/en/projects-deep-space-8k/) will be presented at the Ars Electronica Festivals 2024 and 2025. Some created by Futurelab researchers and two by collaborating artist teams selected through open calls.
 
 # *falcon heavy
+*falcon heavy is a multi-user experience. Four participants interact with a stereoscopic audiovisual sculpture and synchronize their movements to proceed in the interactive artwork.
 [*falcon heavy Project Page](https://ars.electronica.art/futurelab/en/falcon-heavy/)<br>
-
 
 <iframe
   width="560"
@@ -42,8 +42,7 @@ SHARESPACE is a European R&D consortium made up of 14 partners, among them the A
 </iframe>
 
 # Converge 2
-Converge 2 is the continuation of 2024 Converge performance. It was designed and developed by Patrick Berger as part of the SHARESPACE project.
-Participants within the Deep Space 8K are collaborating with an avatar which is controlled by remotely by a performer.<br>
+Converge 2 is the continuation of 2024 Converge performance. Participants within the Deep Space 8K are collaborating with an avatar which is controlled by remotely by a performer.<br>
 [Converge Project Page](https://ars.electronica.art/futurelab/en/converge-2/)
 
 <iframe
@@ -56,6 +55,20 @@ Participants within the Deep Space 8K are collaborating with an avatar which is 
   referrerpolicy="strict-origin-when-cross-origin"
   allowfullscreen>
 </iframe>
+
+# State of Play: شهر بازی
+
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/watch?v=Rt2e2s61zIU"
+  title="*falcon heavy video*"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
+
 
 ## Responsibilities
 Technical Lead | Research | Software development
