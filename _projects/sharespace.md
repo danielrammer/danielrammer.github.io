@@ -12,7 +12,7 @@ gallery:
     description: "SHARESPACE State of Play performance 2024."
   - video: "bJeq1ljiD_M"
     type: "youtube"
-    preview: "falcon-150.jpg"
+    preview: "converge2-02-150.jpg"
   - file: "converge2-03.jpg"
     preview: "converge2-03-150.jpg"
     description: "SHARESPACE Converge 2 performance 2025."
