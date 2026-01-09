@@ -25,6 +25,16 @@ gallery:
 ---
 
 SHARESPACE is a European R&D consortium made up of 14 partners, among them the Ars Electronica Futurelab. Spanning three years, the research project runs from January 2023 to December 2025. Several artworks created for Deep Space 8K will be presented at the Ars Electronica Festivals 2024 and 2025. Some created by Futurelab researchers and two by collaborating artist teams selected through open calls.
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/watch?v=MXm5VLGloL8"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+
 
 ## Responsibilities
 Technical Lead | Research | Software development
