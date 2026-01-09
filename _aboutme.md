@@ -13,7 +13,7 @@ Across these experiences, I have built a reputation for technical leadership, in
 {:.subtleLine}
 ___
 ## Professional Experience
-* 2018 -      Lead Developer and Researcher at [Ars Electronica Futurelab](https://ars.electronica.art/futurelab/de/rammer-daniel/)
+* 2018 -      Lead Developer and Researcher at [Ars Electronica Futurelab](https://ars.electronica.art/futurelab/)
 * 2015 - 2017 Researcher at [Playful Interactive Environments (PIE)](https://pie.fh-hagenberg.at/)
 * 2007 - 2012 Programmer and technician in robotics
 
