@@ -80,8 +80,8 @@ State of Play: شهر بازی is the selected project of the SHARESPACE Open Ca
 </iframe>
 
 # Foolish Flame
-Foolish Flame is a transdisciplinary piece that explores the fraught frontiers of climate change and our inherited cultural trauma. Through collective experience and real-time generative technology, visitors witness an evolving landscape of environmental narratives.
-[State of Play Project Page](https://sharespace.eu/state-of-play-%D8%B4%D9%87%D8%B1-%D8%A8%D8%A7%D8%B2%DB%8C/)<br>
+Foolish Flame is a transdisciplinary piece that explores the fraught frontiers of climate change and our inherited cultural trauma. Through collective experience and real-time generative technology, visitors witness an evolving landscape of environmental narratives.<br>
+[Foolish Flame Project Page](https://sharespace.eu/foolish-flame/)<br>
 
 <iframe
   width="560"
