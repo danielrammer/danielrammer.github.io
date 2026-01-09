@@ -32,6 +32,8 @@ gallery:
 
 SHARESPACE is a European R&D consortium made up of 14 partners, among them the Ars Electronica Futurelab. Spanning three years, the research project runs from January 2023 to December 2025. Several artworks created for [Deep Space 8K](https://ars.electronica.art/futurelab/en/projects-deep-space-8k/) will be presented at the Ars Electronica Festivals 2024 and 2025. Some created by Futurelab researchers and two by collaborating artist teams selected through open calls.
 
+Within the project, I served as Technical Lead, with responsibilities spanning consultation and support for external artist teams, research and authoring of technical deliverables, and the development of complex interactive media art installations.
+
 # *falcon heavy
 *falcon heavy is a multi-user experience. Four participants interact with a stereoscopic audiovisual sculpture and synchronize their movements to proceed in the interactive artwork.<br>
 [*falcon heavy Project Page](https://ars.electronica.art/futurelab/en/falcon-heavy/)<br>
