@@ -3,10 +3,8 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 #webgl-canvas {
   position: fixed;
   top: 0;
-  right: 0;
-  bottom: 0;
   left: 0;
-  overflow: hidden;
+  z-index: -1;
 }
 
 /*! Flickity v1.1.1
