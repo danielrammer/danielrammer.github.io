@@ -74,7 +74,7 @@
         showDots: false
       })
 
-      const TARGET_FPS = 10
+      const TARGET_FPS = 2
 
       let lastRender = 0
       let lastLog = performance.now()
@@ -88,6 +88,7 @@
           effect.renderer.render(effect.scene, effect.camera)
           lastRender = now
           renders++
+          console.log('render:', renders)
         }
 
         // Log once per second
