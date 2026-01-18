@@ -7,8 +7,8 @@ facts: Robotics and Automation
 subpage: false
 titleimage: "robotics-preview.jpg"
 gallery:
-  - file: "robotics-3.jpg"
-    preview: "robotics-3-150.jpg"
+  - file: "robotics-4.jpg"
+    preview: "robotics-4-150.jpg"
     description: "Two VR players and a spectator cooperating."
   - file: "robotics-3.jpg"
     preview: "robotics-3-150.jpg"
@@ -16,8 +16,8 @@ gallery:
   - file: "robotics-1.jpg"
     preview: "robotics-1-150.jpg"
     description: "A close-up shot of the player avatars in Cargo."
-  - file: "crobotics-2.jpg"
-    preview: "crobotics-2-150.jpg"
+  - file: "robotics-2.jpg"
+    preview: "robotics-2-150.jpg"
     description: "A close-up shot of the player avatars in Cargo - in game."
 ---
 
