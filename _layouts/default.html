@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
   {% include head.html %}
-  <!-- <script src="js/grid.js"></script> -->
-  <script type="module" src="grid.js"></script>
   <body>
     <canvas id="webgl-canvas"></canvas>
     {% include header.html %}
     {{ content }}
     {% include footer.html %}
     <script src="{{ '/js/main.js' | prepend: site.baseurl }}"></script>
-	<script src="{{ '/js/scrollTo.js' | prepend: site.baseurl }}"></script>
+	  <script src="{{ '/js/scrollTo.js' | prepend: site.baseurl }}"></script>
+    <script src="js/grid.js"></script>
   </body>
 </html>
