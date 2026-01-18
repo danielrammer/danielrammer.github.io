@@ -8,6 +8,8 @@
     {% include footer.html %}
     <script src="{{ '/js/main.js' | prepend: site.baseurl }}"></script>
 	  <script src="{{ '/js/scrollTo.js' | prepend: site.baseurl }}"></script>
-    <script src="js/grid.js"></script>
+    <script type="module">
+      import { Grid } from "./grid.js";
+    </script>
   </body>
 </html>
