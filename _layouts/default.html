@@ -70,20 +70,22 @@
         color: 0xfafafa,
         backgroundColor: 0xebebeb,
         points: 10.0,
-        maxDistance: 20.0,
+        maxDistance: 18.0,
         showDots: false
       })
 
-      // Throttle FPS to ~30
-      let lastFrameTime = performance.now();
-      vantaEffect.renderer.setAnimationLoop(() => {
-        const now = performance.now();
-        if (now - lastFrameTime > 1000 / 30) { // 30 FPS
-          vantaEffect.renderer.render(vantaEffect.scene, vantaEffect.camera);
-          lastFrameTime = now;
+      let last = performance.now()
+
+      const originalRender = effect.renderer.render.bind(effect.renderer)
+
+      effect.renderer.setAnimationLoop(() => {
+        const now = performance.now()
+        if (now - last >= 1000 / 30) {
+          originalRender(effect.scene, effect.camera)
+          last = now
         }
-      });
-      console.log(lastFrameTime);
+      })
+      console.log(last);
     </script>
     <!-- <script
       type="module"
