@@ -87,16 +87,15 @@
         if (now - lastRender >= 1000 / TARGET_FPS) {
           effect.renderer.render(effect.scene, effect.camera)
           lastRender = now
-          renders++
-          console.log('render:', renders)
+          // renders++
         }
 
-        // Log once per second
-        if (now - lastLog >= 1000) {
-          console.log('FPS:', renders)
-          renders = 0
-          lastLog = now
-        }
+        // // Log once per second
+        // if (now - lastLog >= 1000) {
+        //   console.log('FPS:', renders)
+        //   renders = 0
+        //   lastLog = now
+        // }
       })
     </script>
     <!-- <script
