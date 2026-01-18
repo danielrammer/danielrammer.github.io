@@ -20,18 +20,21 @@
 
     <!-- Vanta initialization -->
     <script>
-      VANTA.TOPOLOGY({
-        el: "#vanta-bg",
-        mouseControls: true,
-        touchControls: true,
-        gyroControls: false,
-        minHeight: 200.0,
-        minWidth: 200.0,
-        scale: 1.0,
-        scaleMobile: 1.0,
-        color: 0xe6e6e6,
-        backgroundColor: 0xffffff
-      })
+      if (window.innerWidth > 768) 
+      {
+        VANTA.TOPOLOGY({
+          el: "#vanta-bg",
+          mouseControls: true,
+          touchControls: true,
+          gyroControls: false,
+          minHeight: 200.0,
+          minWidth: 200.0,
+          scale: 1.0,
+          scaleMobile: 1.0,
+          color: 0xe6e6e6,
+          backgroundColor: 0xffffff
+        })
+      }
     </script>
     <!-- <script>
       VANTA.CLOUDS2({
