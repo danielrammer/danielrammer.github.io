@@ -11,9 +11,9 @@ document.addEventListener('DOMContentLoaded', () => {
   canvas.height = window.innerHeight
 
   const bg = Grid1Background(canvas)
-  bg.grid.setColors([0xaaaaaa, 0x999999, 0xcccccc])
-  bg.grid.light1.color.set(0xffaaaa)
+  bg.grid.setColors([0xffffff, 0xffffff, 0xffffff])
+  bg.grid.light1.color.set(0xffffff)
   bg.grid.light1.intensity = 100
-  bg.grid.light2.color.set(0x222277)
-  bg.grid.light2.intensity = 200
+  bg.grid.light2.color.set(0xffffff)
+  bg.grid.light2.intensity = 100
 })
