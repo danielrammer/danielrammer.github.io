@@ -4,9 +4,13 @@
 
 import Grid1Background from 'https://cdn.jsdelivr.net/npm/threejs-components@0.0.16/build/backgrounds/grid1.cdn.min.js'
 
-const bg = Grid1Background(document.getElementById('webgl-canvas'))
+document.addEventListener('DOMContentLoaded', () => {
+  const canvas = document.getElementById('webgl-canvas')
 
-$(document).ready(function(){
+  canvas.width = window.innerWidth
+  canvas.height = window.innerHeight
+
+  const bg = Grid1Background(canvas)
   bg.grid.setColors([0xaaaaaa, 0x999999, 0xcccccc])
   bg.grid.light1.color.set(0xffaaaa)
   bg.grid.light1.intensity = 100
