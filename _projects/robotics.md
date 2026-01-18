@@ -1,6 +1,6 @@
 ---
 title: Robotics
-date: 2007-01-09
+date: 2014-01-09
 category: 4
 release: 2012-09-01
 facts: Robotics and Automation

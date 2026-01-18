@@ -2,7 +2,6 @@
 title: Pier Globe
 date: 2012-05-02
 category: 4
-date: 2013-05-02
 facts: 3D Modeling & Rendering
 subpage: false
 titleimage: "globe-preview.jpg"
