@@ -8,9 +8,28 @@
     {% include footer.html %}
     <script src="{{ '/js/main.js' | prepend: site.baseurl }}"></script>
 	  <script src="{{ '/js/scrollTo.js' | prepend: site.baseurl }}"></script>
-    <script
+    <script src="three.r134.min.js"></script>
+    <script src="vanta.net.min.js"></script>
+    <script>
+    VANTA.NET({
+      el: "#webgl-canvas",
+      mouseControls: true,
+      touchControls: true,
+      gyroControls: false,
+      minHeight: 200.00,
+      minWidth: 200.00,
+      scale: 1.00,
+      scaleMobile: 1.00,
+      color: 0xffffff,
+      backgroundColor: 0xf0f0f0,
+      points: 16.00,
+      maxDistance: 21.00,
+      showDots: false
+    })
+    </script>
+    <!-- <script
       type="module"
       src="{{ '/js/background.js' | prepend: site.baseurl | relative_url }}">
-    </script>
+    </script> -->
   </body>
 </html>
