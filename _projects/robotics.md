@@ -2,7 +2,6 @@
 title: Robotics
 date: 2014-01-09
 category: 4
-release: 2012-09-01
 facts: Robotics and Automation
 subpage: false
 titleimage: "robotics-preview.jpg"
