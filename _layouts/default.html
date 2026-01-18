@@ -13,8 +13,8 @@
     <!-- Vanta dependencies (ORDER MATTERS) -->
 
     <script src="https://cdn.jsdelivr.net/npm/three@0.134.0/build/three.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.clouds2.min.js"></script>
-    <!-- <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.net.min.js"></script> -->
+    <!-- <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.clouds2.min.js"></script> -->
+    <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.net.min.js"></script>
 
     <!-- topology -->
     <!-- <script src="https://cdn.jsdelivr.net/npm/p5@1.6.0/lib/p5.min.js"></script>
@@ -38,7 +38,7 @@
         })
       // }
     </script> -->
-    <script>
+    <!-- <script>
     if (window.innerWidth > 768) 
     {
       VANTA.CLOUDS2({
@@ -48,7 +48,7 @@
         gyroControls: false,
         minHeight: 200.00,
         minWidth: 200.00,
-        scale: 2.00,
+        scale: 1.00,
         backgroundColor: 0xffffff,
         skyColor: 0xcfcfcf,
         cloudColor: 0xb3b3b3,
@@ -56,8 +56,8 @@
         texturePath: "/assets/noise.png"
       })
     }
-    </script>
-    <!-- <script>
+    </script> -->
+    <script>
       VANTA.NET({
         el: "#vanta-bg",
         mouseControls: true,
@@ -73,7 +73,7 @@
         maxDistance: 21.0,
         showDots: false
       })
-    </script> -->
+    </script>
     <!-- <script
       type="module"
       src="{{ '/js/background.js' | prepend: site.baseurl | relative_url }}">
