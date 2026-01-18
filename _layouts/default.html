@@ -73,6 +73,17 @@
         maxDistance: 20.0,
         showDots: false
       })
+
+      // Throttle FPS to ~30
+      let lastFrameTime = performance.now();
+      vantaEffect.renderer.setAnimationLoop(() => {
+        const now = performance.now();
+        if (now - lastFrameTime > 1000 / 30) { // 30 FPS
+          vantaEffect.renderer.render(vantaEffect.scene, vantaEffect.camera);
+          lastFrameTime = now;
+        }
+      });
+      console.log(lastFrameTime);
     </script>
     <!-- <script
       type="module"
