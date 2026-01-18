@@ -74,18 +74,19 @@
         showDots: false
       })
 
-      let last = performance.now()
-
-      const originalRender = effect.renderer.render.bind(effect.renderer)
+      let last = 0
+      let renders = 0
 
       effect.renderer.setAnimationLoop(() => {
         const now = performance.now()
-        if (now - last >= 1000 / 30) {
-          originalRender(effect.scene, effect.camera)
+        if (now - last > 1000) {
+          console.log('renders per second:', renders)
+          renders = 0
           last = now
         }
+        effect.renderer.render(effect.scene, effect.camera)
+        renders++
       })
-      console.log(last);
     </script>
     <!-- <script
       type="module"
