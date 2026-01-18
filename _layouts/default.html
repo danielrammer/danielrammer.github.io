@@ -74,18 +74,28 @@
         showDots: false
       })
 
-      let last = 0
+      const TARGET_FPS = 10
+
+      let lastRender = 0
+      let lastLog = performance.now()
       let renders = 0
 
       effect.renderer.setAnimationLoop(() => {
         const now = performance.now()
-        if (now - last > 1000) {
-          console.log('renders per second:', renders)
-          renders = 0
-          last = now
+
+        // Throttle rendering
+        if (now - lastRender >= 1000 / TARGET_FPS) {
+          effect.renderer.render(effect.scene, effect.camera)
+          lastRender = now
+          renders++
         }
-        effect.renderer.render(effect.scene, effect.camera)
-        renders++
+
+        // Log once per second
+        if (now - lastLog >= 1000) {
+          console.log('FPS:', renders)
+          renders = 0
+          lastLog = now
+        }
       })
     </script>
     <!-- <script
