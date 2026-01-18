@@ -6,10 +6,10 @@ import Grid1Background from 'https://cdn.jsdelivr.net/npm/threejs-components@0.0
 
 const bg = Grid1Background(document.getElementById('webgl-canvas'))
 
-window.onload = function() {
+$(document).ready(function(){
   bg.grid.setColors([0xaaaaaa, 0x999999, 0xcccccc])
   bg.grid.light1.color.set(0xffaaaa)
   bg.grid.light1.intensity = 100
   bg.grid.light2.color.set(0x222277)
   bg.grid.light2.intensity = 200
-}
+})
