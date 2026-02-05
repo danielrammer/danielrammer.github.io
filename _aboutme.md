@@ -3,7 +3,7 @@ Hi, I’m Daniel, a versatile software development and research professional wit
 
 From 2018 until the end of 2025 I was working at the Futurelab in a series of developer and leadership roles. As Lead Developer and Researcher, I worked on national and international projects, led software architecture and development for an educational initiative, and contributed to R&D in human–machine collaboration, swarm robotics, robotics, and extended reality. My responsibilities also included project conception, hardware planning, and close collaboration with partners from research, the arts, science, and industry. I delivered workshops, presentations, and demonstrations, including at the annual Ars Electronica Festival.
 
-Across these experiences, I have built a reputation for technical leadership, interdisciplinary thinking, and the ability to drive unconventional, high-impact projects from concept to completion.
+Across these experiences, I have built a reputation for technical leadership, interdisciplinary thinking, and the ability to drive unconventional projects from concept to completion.
 
 <!--
 ## Education
