@@ -5,7 +5,7 @@ From 2018 until the end of 2025 I was working at the Futurelab in a series of de
 
 Across these experiences, I have built a reputation for technical leadership, interdisciplinary thinking, and the ability to drive unconventional, high-impact projects from concept to completion.
 
-
+<!--
 ## Education
 * 2015 - 2017: University of Applied Sciences Hagenberg - [Interactive Media](https://www.fh-ooe.at/en/hagenberg-campus/studiengaenge/master/interactive-media/) MSc
 * 2012 - 2015: University of Applied Sciences Hagenberg - [Media Technology and Design](https://www.fh-ooe.at/en/hagenberg-campus/studiengaenge/bachelor/media-technology-and-design/) BSc
@@ -34,4 +34,4 @@ Unity Engine \| Blender \| Unreal Engine \| Photoshop \| Ableton Live \| Maya  \
 
 ### Programming
 {:.skillTxt}
-C# \| C++ \| Python \| JavaScript \| Java \| ...
+C# \| C++ \| Python \| JavaScript \| Java \| ... -->
