@@ -2,7 +2,7 @@
 title: Maya Player MK1
 date: 2026-01-01
 category: 0
-facts: A music player and sampler running on a raspberry pi
+facts: A music player and sampler running on a Raspberry Pi
 subpage: false
 titleimage: "maya1-preview800.jpg"
 gallery:
@@ -20,7 +20,7 @@ gallery:
     description: "Deep Sync presentation in the Deep Space 8K."
 ---
 
-A music player and sampler running on a raspberry pi I built for my daughter and for fun.
+A music player and sampler running on a Raspberry Pi I built for my daughter and for fun.
 Features are:
 * MP3 player with 5 distinct playlists - based on VLC
 * Online radio player - based on VLC
