@@ -1,10 +1,10 @@
 ---
 title: Maya Player MK1
 date: 2026-01-01
-category: 5
+category: 0
 facts: A music player and sampler running on a raspberry pi
 subpage: false
-titleimage: "02-desy.jpg"
+titleimage: "maya1-preview800.jpg"
 gallery:
   - file: "maya1-1920.jpg"
     preview: "maya1-150.jpg"
