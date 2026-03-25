@@ -24,5 +24,5 @@ A music player and sampler running on a raspberry pi I built for my daughter and
 Features are:
 * MP3 player with 5 distinct playlists - based on VLC
 * Online radio player - based on VLC
-* Sampler - based pygame
-* Synth sound player with ultrasonic proximity sensor pitch/note control - based on fluidsynth
+* Sampler - based [pygame](https://www.pygame.org/)
+* Synth sound player with ultrasonic proximity sensor pitch/note control - based on [fluidsynth](https://www.fluidsynth.org/)
