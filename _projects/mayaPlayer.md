@@ -12,6 +12,9 @@ gallery:
   - video: "_uQ8eyEfBRk"
     type: "youtube"
     preview: "maya1-150.jpg"
+  - file: "maya4-1920.jpg"
+    preview: "maya4-150.jpg"
+    description: "Deep Sync presentation in the Deep Space 8K."
   - file: "maya2-1920.jpg"
     preview: "maya2-150.jpg"
     description: "Deep Sync presentation in the Deep Space 8K."
@@ -26,3 +29,4 @@ Features are:
 * Online radio player - based on VLC
 * Sampler - based [pygame](https://www.pygame.org/)
 * Synth sound player with ultrasonic proximity sensor pitch/note control - based on [fluidsynth](https://www.fluidsynth.org/)
+* glows in the dark
