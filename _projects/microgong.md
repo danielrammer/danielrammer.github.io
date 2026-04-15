@@ -16,7 +16,7 @@ gallery:
 
 # micro:gong is a micro:bit Timer with LED Display, Sound, and Vibration
 
-Transform your micro:bit to a simple timer. Inclusive 3d model for the case and wiring for a vibration motor.
+The idea to build this one came from the desire to have a silent (egg) timer (no ticking) for meditation. First impulse, there must be a product out there ... but then, why don't build it myself. Saves time. At the end, there was a nice an simpel piece with a tiny vibration motor.
 
 Your find models for 3d printing, and everything you need to know to build a micro:gong at home in the repository/Readme.
 
