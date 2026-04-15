@@ -4,7 +4,7 @@ date: 2026-04-01
 category: 0
 facts: A micro:bit Timer with LED Display, Sound, and Vibration
 subpage: false
-titleimage: "microGong1-preview800.jpg"
+titleimage: "microGong1-Preview800.jpg"
 gallery:
   - file: "microGong1-1920.jpg"
     preview: "microGong1-150.jpg"
