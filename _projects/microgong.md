@@ -20,8 +20,8 @@ The idea to build this one came from the desire to have a silent (egg) timer (no
 
 Your find models for 3d printing, and everything you need to know to build a micro:gong at home in the repository/Readme.
 
-Repository: https://github.com/danielrammer/microgong <br>
-MakeCode direct link: https://makecode.microbit.org/S24370-71822-65545-11374
+[Repository](https://github.com/danielrammer/microgong) <br>
+[MakeCode direct link](https://makecode.microbit.org/S24370-71822-65545-11374)
 
 ## How it works
 
