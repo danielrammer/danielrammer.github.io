@@ -1,5 +1,5 @@
 ---
-title: mozXR | 2025
+title: mozXR
 date: 2025-10-01
 category: 5
 release: 2026-06-01

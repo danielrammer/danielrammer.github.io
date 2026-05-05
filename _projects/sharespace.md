@@ -1,5 +1,5 @@
 ---
-title: SHARESPACE | 2023 - 2025
+title: SHARESPACE
 date: 2025-01-01
 category: 5
 release: 2025-01-01
