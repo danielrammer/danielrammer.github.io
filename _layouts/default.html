@@ -2,105 +2,10 @@
 <html lang="en">
   {% include head.html %}
   <body>
-    <!-- <canvas id="webgl-canvas"></canvas> -->
-    <div id="vanta-bg"></div>
     {% include header.html %}
     {{ content }}
     {% include footer.html %}
     <script src="{{ '/js/main.js' | prepend: site.baseurl }}"></script>
 	  <script src="{{ '/js/scrollTo.js' | prepend: site.baseurl }}"></script>
-
-    <!-- Vanta dependencies (ORDER MATTERS) -->
-
-    <script src="https://cdn.jsdelivr.net/npm/three@0.134.0/build/three.min.js"></script>
-    <!-- <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.clouds2.min.js"></script> -->
-    <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.net.min.js"></script>
-
-    <!-- topology -->
-    <!-- <script src="https://cdn.jsdelivr.net/npm/p5@1.6.0/lib/p5.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.topology.min.js"></script> -->
-
-    <!-- Vanta initialization -->
-    <!-- <script>
-      // if (window.innerWidth > 768) 
-      // {
-        VANTA.TOPOLOGY({
-          el: "#vanta-bg",
-          mouseControls: true,
-          touchControls: true,
-          gyroControls: false,
-          minHeight: 200.0,
-          minWidth: 200.0,
-          scale: 0.5,
-          scaleMobile: 0.3,
-          color: 0xdcdcdc,
-          backgroundColor: 0xffffff
-        })
-      // }
-    </script> -->
-    <!-- <script>
-    if (window.innerWidth > 768) 
-    {
-      VANTA.CLOUDS2({
-        el: "#vanta-bg",
-        mouseControls: true,
-        touchControls: true,
-        gyroControls: false,
-        minHeight: 200.00,
-        minWidth: 200.00,
-        scale: 1.00,
-        backgroundColor: 0xffffff,
-        skyColor: 0xcfcfcf,
-        cloudColor: 0xb3b3b3,
-        speed: 0.77,
-        texturePath: "/assets/noise.png"
-      })
-    }
-    </script> -->
-    <script>
-      const effect = VANTA.NET({
-        el: "#vanta-bg",
-        mouseControls: true,
-        touchControls: true,
-        gyroControls: false,
-        minHeight: 200.0,
-        minWidth: 200.0,
-        scale: 0.5,
-        scaleMobile: 0.5,
-        color: 0xfafafa,
-        backgroundColor: 0xebebeb,
-        points: 10.0,
-        maxDistance: 18.0,
-        showDots: false
-      })
-
-      const TARGET_FPS = 2
-
-      let lastRender = 0
-      let lastLog = performance.now()
-      let renders = 0
-
-      effect.renderer.setAnimationLoop(() => {
-        const now = performance.now()
-
-        // Throttle rendering
-        if (now - lastRender >= 1000 / TARGET_FPS) {
-          effect.renderer.render(effect.scene, effect.camera)
-          lastRender = now
-          // renders++
-        }
-
-        // // Log once per second
-        // if (now - lastLog >= 1000) {
-        //   console.log('FPS:', renders)
-        //   renders = 0
-        //   lastLog = now
-        // }
-      })
-    </script>
-    <!-- <script
-      type="module"
-      src="{{ '/js/background.js' | prepend: site.baseurl | relative_url }}">
-    </script> -->
   </body>
 </html>

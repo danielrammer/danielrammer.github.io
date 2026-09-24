@@ -3,6 +3,8 @@ module.exports = (function menu() {
 
   const handleMenuClick = () => {
     navList.classList.toggle('nav_open');
+    const isOpen = navList.classList.contains('nav_open');
+    document.getElementById('menu_toggle_button').setAttribute('aria-expanded', isOpen);
   };
 
   const initMenu = () => {
