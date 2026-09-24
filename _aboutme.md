@@ -1,3 +1,4 @@
+
 Hi, I’m Daniel, a versatile software development and research professional with broad experience in robotics and interactive technologies. After several years working primarily in robotics, I chose to pursue a university degree at 25, where I developed a strong interest in game development and interactive systems. This interest led to numerous side and student projects and eventually to 7.5 years at the Ars Electronica Futurelab. Today, I teach Coding and Informatics at BRG Linz Fadingerstraße.
 
 **Teaching Coding and Informatics (2026–today) ← Lead Developer and Researcher (2018–2025) ← University (2012–2017) ← Robotics Programmer (2009–2012) ← Automation Engineer (2007–2009) ← Electrical Engineering Technician (2002–2006)**
