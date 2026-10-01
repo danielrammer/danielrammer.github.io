@@ -52,7 +52,8 @@ style="
     border-radius: 1em;
     background-color: white;
     padding: 1em;
-    border: 0.1em solid #555555;
+    border: 0.1em solid #ff3d81;
+    font-weight: bold;
     cursor: pointer;"
 id="buttonGame">Click to Play Hatchling/Tortuga</button>
 <div id="iframeHolderGame"></div>
@@ -77,7 +78,8 @@ style="
     border-radius: 1em;
     background-color: white;
     padding: 1em;
-    border: 0.1em solid #555555;
+    border: 0.1em solid #ff3d81;
+    font-weight: bold;
     cursor: pointer;"
 id="buttonShow">Click to Watch Low Poly Models</button>
 <div id="iframeHolderShow"></div>
