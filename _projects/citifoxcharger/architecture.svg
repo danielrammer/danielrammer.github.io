@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="560" viewBox="0 0 1060 560" role="img" aria-labelledby="title desc">
+<title id="title">CitiFoxCharger communication</title><desc id="desc">Browsers use one shared Windows backend. Local SMARTFOX communication reads Modbus and XML and verifies web commands. Separate HTTPS calls read the vehicle state and request charging start or stop through Škoda.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto-start-reverse"><path d="M0 0 8 4 0 8" fill="#78c6ad"/></marker></defs>
+<rect width="1060" height="560" fill="#15221e"/>
+<g font-family="Segoe UI,Arial,sans-serif" fill="#e5eee8">
+<text x="46" y="53" font-size="16" fill="#a8d36d" letter-spacing="2">TWO PATHS. ONE SHARED MONITOR.</text>
+<rect x="45" y="190" width="205" height="130" rx="12" fill="#21372d" stroke="#52675b"/>
+<text x="70" y="227" font-size="22" font-weight="600">Browser</text><text x="70" y="256" font-size="16">Tablet · laptop · phone</text><text x="70" y="285" font-size="14" fill="#b6c9be">Local HTTP / home HTTPS</text>
+<rect x="340" y="160" width="285" height="200" rx="12" fill="#244333" stroke="#a8d36d"/>
+<text x="365" y="201" font-size="23" font-weight="600">Windows backend</text><text x="365" y="234" font-size="17">Target + state machine</text><text x="365" y="263" font-size="17">Shared telemetry cache</text><text x="365" y="292" font-size="17">Command verification</text><text x="365" y="331" font-size="14" fill="#c0d7c7">API key stays in the local profile</text>
+<rect x="750" y="75" width="265" height="155" rx="12" fill="#21372d" stroke="#52675b"/>
+<text x="775" y="111" font-size="23" font-weight="600">SMARTFOX</text><text x="775" y="143" font-size="16">Read-only Modbus TCP</text><text x="775" y="170" font-size="16">XML + local web commands</text><text x="775" y="205" font-size="14" fill="#b6c9be">Charger · heaters · hot water</text>
+<rect x="750" y="315" width="265" height="155" rx="12" fill="#21372d" stroke="#52675b"/>
+<text x="775" y="352" font-size="23" font-weight="600">Škoda cloud API</text><text x="775" y="384" font-size="16">Vehicle SOC + capabilities</text><text x="775" y="411" font-size="16">Charging start / stop</text><text x="775" y="446" font-size="14" fill="#b6c9be">Manufacturer link to the vehicle</text>
+<g fill="none" stroke="#78c6ad" stroke-width="2.5" marker-start="url(#arrow)" marker-end="url(#arrow)"><path d="M264 255H325"/><path d="M640 211L734 154"/><path d="M640 310L734 389"/></g>
+<text x="656" y="145" font-size="13" fill="#b6c9be">LOCAL</text><text x="661" y="414" font-size="13" fill="#b6c9be">HTTPS</text>
+<text x="46" y="510" font-size="17">Battery level comes from the car API. Charging power comes from SMARTFOX.</text><text x="46" y="537" font-size="14" fill="#b6c9be">A successful command is checked against telemetry. A cloud read can still return an older measurement.</text>
+</g></svg>
