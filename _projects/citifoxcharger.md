@@ -6,13 +6,13 @@ release: 2026-10-19
 subpage: false
 facts: Python | Windows | EV charging | Home energy
 excerpt: A local-first charging and home-energy dashboard connecting a Å koda Citigo e iV with SMARTFOX energy management.
-titleimage: "dashboard-desktop.png"
+titleimage: "dashboard-desktop.jpg"
 gallery:
-  - file: "dashboard-desktop.png"
-    preview: "dashboard-desktop.png"
+  - file: "dashboard-desktop.jpg"
+    preview: "dashboard-desktop.jpg"
     description: "CitiFoxCharger desktop dashboard. All vehicle and energy values shown are simulated."
-  - file: "dashboard-portrait.png"
-    preview: "dashboard-portrait.png"
+  - file: "dashboard-portrait.jpg"
+    preview: "dashboard-portrait.jpg"
     description: "Portrait wall-tablet layout at 800 by 1280 pixels. Simulated vehicle and energy data."
 ---
 
