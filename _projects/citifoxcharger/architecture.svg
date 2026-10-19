@@ -4,8 +4,8 @@
 <defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#50665c"/></marker></defs>
 <rect width="560" height="470" rx="14" fill="#f4f7f4"/>
 <g fill="none" stroke="#50665c" stroke-width="2" marker-start="url(#arrow)" marker-end="url(#arrow)">
-<path d="M280 68V118"/><path d="M230 178V203H140V256"/><path d="M330 178V203H420V256"/>
-<path d="M140 330V410H205"/><path d="M420 330V410H355"/>
+<path d="M280 68V118"/><path d="M230 178V203H60V256"/><path d="M330 178V203H500V256"/>
+<path d="M60 330V410H205"/><path d="M500 330V410H355"/>
 </g>
 <g stroke="#adc2b3" stroke-width="1.5" fill="#fff">
 <rect x="170" y="18" width="220" height="50" rx="9"/>
