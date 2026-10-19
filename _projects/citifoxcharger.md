@@ -5,7 +5,7 @@ category: 0
 release: 2026-10-19
 subpage: false
 facts: Python | Windows | EV charging | Home energy
-excerpt: A local-first charging and home-energy dashboard connecting a Å koda Citigo e iV with SMARTFOX energy management.
+excerpt: A local-first charging and home-energy dashboard connecting a Škoda Citigo e iV with SMARTFOX energy management.
 titleimage: "dashboard-desktop.jpg"
 gallery:
   - file: "dashboard-desktop.jpg"
@@ -20,13 +20,13 @@ gallery:
 
 <p class="cf-intro">One clear view of the car, the charger and the energy at home.</p>
 
-CitiFoxCharger is a personal integration project for a Å koda Citigo e iV and a SMARTFOX energy manager. It brings battery level, charging controls, grid power and heating outputs into one compact browser dashboard, designed for a Windows tablet on the wall.
+CitiFoxCharger is a personal integration project for a Škoda Citigo e iV and a SMARTFOX energy manager. It brings battery level, charging controls, grid power and heating outputs into one compact browser dashboard, designed for a Windows tablet on the wall.
 
 <p class="cf-caption">The screenshots on this page use simulated data. They do not show a live vehicle, household measurements or personal account information.</p>
 
 <div class="cf-links">
-  <a href="https://github.com/danielrammer/CitiFoxCharger">View source on GitHub â†—</a>
-  <a href="https://github.com/danielrammer/CitiFoxCharger/blob/main/COMMUNICATION.md">Communication diagrams â†—</a>
+  <a href="https://github.com/danielrammer/CitiFoxCharger">View source on GitHub ↗</a>
+  <a href="https://github.com/danielrammer/CitiFoxCharger/blob/main/COMMUNICATION.md">Communication diagrams ↗</a>
 </div>
 
 ## Two systems. One charging workflow.
@@ -44,11 +44,11 @@ After a confirmed combined stop, normal A+ operation can resume. An explicitly s
 ## Local control meets cloud telemetry
 
 <figure class="cf-architecture">
-  <img src="{{ '/projects/citifoxcharger/architecture.svg' | relative_url }}" alt="The browser connects to a shared Windows backend. That backend reads SMARTFOX locally through Modbus and XML, sends verified local web commands, and separately talks to the Å koda cloud API for vehicle data and charging commands." loading="lazy">
+  <img src="{{ '/projects/citifoxcharger/architecture.svg' | relative_url }}" alt="The browser connects to a shared Windows backend. That backend reads SMARTFOX locally through Modbus and XML, sends verified local web commands, and separately talks to the Škoda cloud API for vehicle data and charging commands." loading="lazy">
   <figcaption>The two communication paths are deliberately separate. Battery state comes from the vehicle API, not from the charging cable. <a href="{{ "/projects/citifoxcharger/architecture.svg" | relative_url }}" target="_blank" rel="noopener">Open diagram at full size ↗</a></figcaption>
 </figure>
 
-The backend is written in Python using the standard library. The frontend uses HTML, CSS and JavaScript. It reads SMARTFOX locally over Modbus TCP and the installed vendor web interface; the Å koda connection uses the public HTTPS API, with capabilities discovered for the configured vehicle.
+The backend is written in Python using the standard library. The frontend uses HTML, CSS and JavaScript. It reads SMARTFOX locally over Modbus TCP and the installed vendor web interface; the Škoda connection uses the public HTTPS API, with capabilities discovered for the configured vehicle.
 
 Modbus access remains read-only. Local SMARTFOX control uses narrowly scoped, explicitly enabled vendor web commands with firmware checks and readback. The documentation lists the exact register addresses, XML fields and API calls rather than treating an observed number as a verified protocol.
 
@@ -88,6 +88,6 @@ The browser never receives the vehicle API key. Credentials are entered locally 
 Before publication, the repository's reachable Git history and GitHub attachments were reviewed for secrets and personal vehicle data. The [publication review](https://github.com/danielrammer/CitiFoxCharger/blob/main/PUBLICATION-REVIEW.md) records the scope, the checksum false positive and the limits of that check.
 
 <div class="cf-links cf-end-links">
-  <a href="https://github.com/danielrammer/CitiFoxCharger">Explore the repository â†—</a>
+  <a href="https://github.com/danielrammer/CitiFoxCharger">Explore the repository ↗</a>
   <a href="{{ '/projects/' | relative_url }}">All projects</a>
 </div>
