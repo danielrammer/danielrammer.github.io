@@ -22,7 +22,13 @@ CitiFoxCharger is a small web app connecting a Škoda Citigo e iV with SMARTFOX 
 - See home energy use and control the charger, heaters and hot water.
 - Keep charging monitored in the backend while the browser is closed or the screen is off.
 
-Built with Python, HTML, CSS and JavaScript. SMARTFOX is accessed locally; vehicle data and charging commands use the Škoda API. Cloud data can be delayed, so the monitored target is not an exact native battery limit.
+Built with Python, HTML, CSS and JavaScript.
+
+### Architecture
+
+The browser talks to the Python backend on the tablet. SMARTFOX registers are read over **Modbus TCP**; live energy values and mode changes use its **local web interface**, with readback verification. The **Škoda Public API** supplies battery status and charging start/stop commands. The backend monitors the target; delayed cloud data can cause overshoot.
+
+![Communication between the browser, tablet backend, SMARTFOX and the Škoda cloud. Modbus is read-only; SMARTFOX control uses its local web interface.](architecture.svg)
 
 *Both screenshots show simulated data.*
 
