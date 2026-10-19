@@ -20,7 +20,7 @@ permalink: /projects/
         {% else %}
           {% assign imageurl = "//placehold.it/300x500?text=" | append: project.title |replace: "'", '' | uri_escape %}
         {%endif%}
-        <a href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}" style="background-image: url({{imageurl}})" data-title="{{ project.title }}">
+        <a href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}" style="background-image: url({{imageurl}}){% if project.titleimage_position %}; background-position: {{ project.titleimage_position | escape }}{% endif %}" data-title="{{ project.title }}">
         </a>
       </div>
     {% endfor %}

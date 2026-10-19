@@ -7,6 +7,7 @@ subpage: false
 facts: Python | Windows | EV charging | Home energy
 excerpt: A small charging and home-energy dashboard for a Windows wall tablet.
 titleimage: "portrait-dark.jpg"
+titleimage_position: "center top"
 gallery:
   - file: "portrait-light.jpg"
     preview: "portrait-light.jpg"
