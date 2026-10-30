@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: default
 permalink: /projects/
 ---
 
-<div class="wrapper projects">
+<div class="page-wrapper wrapper projects">
   {% for projectCategory in site.data.projectcategories %}
     {% assign projectInCategory = site.projects | where: "category", projectCategory.id | sort: "date" | reverse %}
     <h2 class="projects-grouplabel">{{projectCategory.labelplural}}</h2>
