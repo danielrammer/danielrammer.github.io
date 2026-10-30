@@ -9,6 +9,9 @@ excerpt: A small charging and home-energy dashboard for a Windows wall tablet.
 titleimage: "portrait-dark.jpg"
 titleimage_position: "center top"
 gallery:
+  - file: "wall-tablet.jpg"
+    preview: "wall-tablet.jpg"
+    description: "CitiFoxCharger running on the wall-mounted Windows tablet during charging."
   - file: "portrait-light.jpg"
     preview: "portrait-light.jpg"
     description: "Portrait tablet view in light mode. All values are simulated."
@@ -31,6 +34,6 @@ The browser talks to the Python backend on the tablet. SMARTFOX registers are re
 
 ![Communication between the browser, tablet backend, SMARTFOX and the Škoda cloud. Modbus is read-only; SMARTFOX control uses its local web interface.](architecture.svg)
 
-*Both screenshots show simulated data.*
+*The photo shows CitiFoxCharger running on the wall tablet. The light- and dark-mode screenshots show simulated data.*
 
 [Source code and documentation on GitHub](https://github.com/danielrammer/CitiFoxCharger)
