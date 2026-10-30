@@ -246,6 +246,8 @@ p, ul, ol, address { line-height: 1.72; }
 .career-timeline time { display: block; margin-top: 0.55rem; color: var(--muted); font-family: "IBM Plex Mono", monospace; font-size: 0.68rem; }
 
 /* Project index */
+.page-wrapper.projects { margin-top: clamp(1rem, 2.5vw, 2rem); }
+.projects > .projects-grouplabel:first-child { padding-top: 0; border-top: 0; }
 .projects-grouplabel {
   padding-top: 2rem;
   margin: 0 0 1.4rem;
