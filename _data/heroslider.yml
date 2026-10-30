@@ -12,12 +12,12 @@
     label: "Details"
     link:  "/projects/swarmRobotics/"
 
-- file: "projects/mozXr/01-mozXR-blurred.jpg"
-  title: "mozXR"
-  subtitle: "Software Framework for XR Projection Rooms"
+- file: "projects/sharespace/play1.jpg"
+  title: "SHARESPACE"
+  subtitle: "Socially engaging hybrid spaces and XR performances."
   more:
     label: "Details"
-    link:  "/projects/mozXr/"
+    link:  "/projects/sharespace/"
 
 - file: "projects/cargo/cargo-3players.jpg"
   title: "CARGO"
@@ -26,10 +26,11 @@
     label: "Details"
     link:  "/projects/cargo/"
 
-- file: "projects/iterum/iterum-blurred.jpg"
-  title: "Iterum"
-  subtitle: "Singleplayer puzzle game."
+- file: "projects/citifoxcharger/wall-tablet.jpg"
+  title: "CitiFoxCharger"
+  subtitle: "EV charging and home-energy dashboard."
+  background_blur: true
   more:
     label: "Details"
-    link:  "/projects/iterum/"
+    link:  "/projects/citifoxcharger/"
 
