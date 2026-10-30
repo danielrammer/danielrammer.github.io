@@ -8,8 +8,12 @@
   </div>
   {% endcomment %}
   <div class="menu_toggle">
-    <button id="menu_toggle_button" class="menu_toggle_button" type="button" aria-controls="nav_list" aria-expanded="false" aria-label="Toggle navigation">
-      {% include icons/menu.svg %}
+    <button id="menu_toggle_button" class="menu_toggle_button" type="button" aria-controls="nav_list" aria-expanded="false" aria-label="Open navigation">
+      <svg class="menu_toggle_icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <path class="menu_toggle_line menu_toggle_line--top" d="M4 6h16" />
+        <path class="menu_toggle_line menu_toggle_line--middle" d="M4 12h16" />
+        <path class="menu_toggle_line menu_toggle_line--bottom" d="M4 18h16" />
+      </svg>
     </button>
   </div>
   <ul id="nav_list" class="nav_list" role="menubar">
