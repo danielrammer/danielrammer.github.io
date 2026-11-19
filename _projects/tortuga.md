@@ -51,6 +51,7 @@ $(function(){
 style="
     border-radius: 1em;
     background-color: white;
+    color: #151515;
     padding: 1em;
     border: 0.1em solid #ff3d81;
     font-weight: bold;
@@ -77,6 +78,7 @@ $(function(){
 style="
     border-radius: 1em;
     background-color: white;
+    color: #151515;
     padding: 1em;
     border: 0.1em solid #ff3d81;
     font-weight: bold;
